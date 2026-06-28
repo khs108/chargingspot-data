@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "data_version": "2026-06-28.001",
+  "generated_at": "2026-06-28T12:00:00+09:00",
+  "rules_url": "https://khs108.github.io/chargingspot-data/latest/charging_price_rules.json",
+  "sha256": "",
+  "min_app_version": "0.1.0"
+}
