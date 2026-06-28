@@ -1,0 +1,1 @@
+# chargingspot-data
