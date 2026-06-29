@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "data_version": "2026-06-28.001",
-  "generated_at": "2026-06-28T12:00:00+09:00",
+  "data_version": "20260629T191035+0900",
+  "generated_at": "2026-06-29T19:10:35+09:00",
   "tariffs": [
     {
       "operator_id": "me",
@@ -9,6 +9,8 @@
       "charger_speed": "fast",
       "user_type": "member",
       "price_per_kwh": 347.2,
+      "time_start": null,
+      "time_end": null,
       "valid_from": "2026-01-01",
       "valid_to": null,
       "confidence": 0.9
