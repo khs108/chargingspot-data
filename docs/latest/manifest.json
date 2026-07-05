@@ -1,8 +1,22 @@
 {
   "schema_version": 1,
-  "data_version": "20260629T191035+0900",
-  "generated_at": "2026-06-29T19:10:35+09:00",
+  "data_version": "20260629T194013+0900",
+  "generated_at": "2026-06-29T19:40:13+09:00",
   "rules_url": "https://khs108.github.io/chargingspot-data/latest/charging_price_rules.json",
-  "sha256": "b2c622b14ce590b50db3c7cf854fb7816fcc21da925413970a5226690cc36246",
-  "min_app_version": "0.1.0"
+  "sha256": "d8f2f9002e9a56d00a071423a02dbfd56471a41ba6956923a22b6e73a029061d",
+  "min_app_version": "0.1.0",
+  "files": {
+    "tariffs.json": {
+      "path": "tariffs.json",
+      "sha256": "788c495fee781549cea48aa1a0fec6e12672af0bda6cf1e86f9543f6fd0509e3",
+      "data_version": "20260705T172042+0900",
+      "generated_at": "2026-07-05T17:20:42+09:00"
+    },
+    "charging_price_rules.json": {
+      "path": "charging_price_rules.json",
+      "sha256": "d8f2f9002e9a56d00a071423a02dbfd56471a41ba6956923a22b6e73a029061d",
+      "data_version": "20260629T194013+0900",
+      "generated_at": "2026-06-29T19:40:13+09:00"
+    }
+  }
 }
