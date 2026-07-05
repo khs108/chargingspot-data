@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "20260705T195709+0900",
+  "generatedAt": "2026-07-05T19:57:09+09:00",
+  "source": {
+    "name": "data.go.kr 전국주차장정보표준데이터",
+    "retrievedAt": "2026-07-05T10:57:09.733641+00:00"
+  },
+  "parkingLots": [
+    {
+      "parkingLotID": "PK-TEST-000001",
+      "parkingName": "역삼역 공영주차장",
+      "parkingCategory": "public",
+      "parkingType": "offStreet",
+      "roadAddress": "서울특별시 강남구 테헤란로",
+      "lotAddress": "서울특별시 강남구 역삼동",
+      "latitude": 37.5001,
+      "longitude": 127.0364,
+      "capacity": 120,
+      "operatingDays": "평일+토요일+공휴일",
+      "weekdayOpenTime": "09:00",
+      "weekdayCloseTime": "22:00",
+      "saturdayOpenTime": "09:00",
+      "saturdayCloseTime": "22:00",
+      "holidayOpenTime": "09:00",
+      "holidayCloseTime": "22:00",
+      "feeType": "paid",
+      "baseTimeMinutes": 30,
+      "baseFeeKRW": 1000,
+      "additionalTimeMinutes": 10,
+      "additionalFeeKRW": 500,
+      "dailyTicketFeeKRW": 12000,
+      "monthlyTicketFeeKRW": null,
+      "paymentMethods": [
+        "card",
+        "cash"
+      ],
+      "disabledParkingAvailable": true,
+      "managementAgency": "서울특별시 강남구",
+      "phoneNumber": "02-0000-0000",
+      "specialNotes": null,
+      "dataQuality": {
+        "coordinateConfidence": 90,
+        "feeConfidence": 90,
+        "operationTimeConfidence": 90
+      }
+    }
+  ]
+}
