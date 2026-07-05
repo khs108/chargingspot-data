@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260705T185847+0900",
-  "generatedAt": "2026-07-05T18:58:47+09:00",
+  "dataVersion": "20260705T212456+0900",
+  "generatedAt": "2026-07-05T21:24:56+09:00",
   "currency": "KRW",
   "source": "ev.or.kr",
   "operators": [
@@ -19,7 +19,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_be7995b97b211fea",
@@ -31,7 +33,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -49,7 +53,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_362da1b4929f7109",
@@ -61,7 +67,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -79,7 +87,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_6abd368b0d74e004",
@@ -91,7 +101,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_05625622b7846cb8",
@@ -103,7 +115,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -121,7 +135,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_01237b4f31a82479",
@@ -133,7 +149,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -151,7 +169,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-01",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_e7a05cb9e8900342",
@@ -163,7 +183,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-01",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_35effa4f0d8d9edd",
@@ -175,7 +197,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-01",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -193,7 +217,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_85c83c6f2c3f54c0",
@@ -205,7 +231,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_dd46a1c696c794e5",
@@ -217,7 +245,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -235,7 +265,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_34b0faaa9754f562",
@@ -247,7 +279,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -265,7 +299,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_616d4e971f056ac3",
@@ -277,7 +313,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -295,7 +333,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-23",
+          "sourceCapacityGroup": "급속(100kW미만)②"
         },
         {
           "id": "evorkr_d88f6e0e5fd8c456",
@@ -307,7 +347,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-23",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -325,7 +367,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_06636b5b0e6aa624",
@@ -337,7 +381,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_d14a672bec6d75ab",
@@ -349,7 +395,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -367,7 +415,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -385,7 +435,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_a6e4e372e2a4c54d",
@@ -397,7 +449,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -415,7 +469,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_efaed571d0b36560",
@@ -427,7 +483,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -445,7 +503,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -463,7 +523,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_570af2e8fe5a257a",
@@ -475,7 +537,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -493,7 +557,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-08",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_8fdc0d9801a0c810",
@@ -505,7 +571,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-08",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -523,7 +591,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         }
       ]
     },
@@ -541,7 +611,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_ba84cf3aa8481b46",
@@ -553,7 +625,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_122d38099609f144",
@@ -565,7 +639,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -583,7 +659,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_8fbb058c1723a1f9",
@@ -595,7 +673,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -613,7 +693,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -631,7 +713,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -649,7 +733,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_4b48a8f465c5b66e",
@@ -661,7 +747,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -679,7 +767,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_67365d16463216fe",
@@ -691,7 +781,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_946462ec75d29e9e",
@@ -703,7 +795,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -721,7 +815,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-30",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -739,7 +835,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-02",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_b283691453a22605",
@@ -751,7 +849,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-02",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -769,7 +869,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_82782e4cff25a3e5",
@@ -781,7 +883,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -799,7 +903,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_ff20fb9142dc5864",
@@ -811,7 +917,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -829,7 +937,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_d45c6ca880fbae39",
@@ -841,7 +951,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -859,7 +971,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_f23ab1715ecbc666",
@@ -871,7 +985,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -889,7 +1005,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-24",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -907,7 +1025,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "중속"
         },
         {
           "id": "evorkr_db2e0d998e07122a",
@@ -919,7 +1039,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_fc9f53ea87712d77",
@@ -931,7 +1053,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_3b0b77c077741f49",
@@ -943,7 +1067,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-20",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -961,7 +1087,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_fb3f716e31fd0194",
@@ -973,7 +1101,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -991,7 +1121,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_60d1eb6337e20d0d",
@@ -1003,7 +1135,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1021,7 +1155,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_6b64645ac2fc8022",
@@ -1033,7 +1169,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_bb65d67b78e9f9b6",
@@ -1045,7 +1183,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1063,7 +1203,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_5b0cba4880152a76",
@@ -1075,7 +1217,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1093,7 +1237,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-23",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1111,7 +1257,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_96f65d717092c357",
@@ -1123,7 +1271,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1141,7 +1291,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_e75035fa48c384c7",
@@ -1153,7 +1305,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1171,7 +1325,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "중속②"
         },
         {
           "id": "evorkr_03fbb0ac0de0aab0",
@@ -1183,7 +1339,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "급속(100kW미만)③"
         },
         {
           "id": "evorkr_14f51674f66ba29f",
@@ -1195,7 +1353,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "급속(100kW이상)④"
         },
         {
           "id": "evorkr_464636171073d1d6",
@@ -1207,7 +1367,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "완속①"
         },
         {
           "id": "evorkr_de4c6eff0cc4763a",
@@ -1219,7 +1381,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-17",
+          "sourceCapacityGroup": "초급속⑤"
         }
       ]
     },
@@ -1237,7 +1401,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_26a3dc3b017ac148",
@@ -1249,7 +1415,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1267,7 +1435,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1285,7 +1455,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_953a7f6c8719e4e3",
@@ -1297,7 +1469,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1315,7 +1489,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_89e941c2866b805d",
@@ -1327,7 +1503,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1345,7 +1523,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-30",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1363,7 +1543,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_46df423ab49c13f7",
@@ -1375,7 +1557,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1393,7 +1577,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_c57efdce9773bc05",
@@ -1405,7 +1591,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1423,7 +1611,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-08",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -1441,7 +1631,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "중속"
         },
         {
           "id": "evorkr_5d2f3ec735b97949",
@@ -1453,7 +1645,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_b7afcae53fb3d4db",
@@ -1465,7 +1659,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_a92df366cb697cb5",
@@ -1477,7 +1673,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1495,7 +1693,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_b716ef13a840adde",
@@ -1507,7 +1707,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1525,7 +1727,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "급속(100kW미만)③"
         },
         {
           "id": "evorkr_5dfdff41fa48d905",
@@ -1537,7 +1741,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "완속①"
         },
         {
           "id": "evorkr_539bd062557bb0b9",
@@ -1549,7 +1755,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "완속②"
         },
         {
           "id": "evorkr_c63aa2639bffb1ca",
@@ -1561,7 +1769,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-10",
+          "sourceCapacityGroup": "초급속④"
         }
       ]
     },
@@ -1579,7 +1789,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-23",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_0911f2a44ea59b48",
@@ -1591,7 +1803,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-23",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1609,7 +1823,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-01",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -1627,7 +1843,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_3663e6f6fade353c",
@@ -1639,7 +1857,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1657,7 +1877,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-08",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_953fcc2f1d58b39c",
@@ -1669,7 +1891,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-08",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1687,7 +1911,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_9474019ea0f3ed40",
@@ -1699,7 +1925,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1717,7 +1945,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_9e9e49f395568ce2",
@@ -1729,7 +1959,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_cadc0585cbcb2a25",
@@ -1741,7 +1973,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1759,7 +1993,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-25",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_15f3cd07fb420cd3",
@@ -1771,7 +2007,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-25",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1789,7 +2027,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_e9a23f81005f6494",
@@ -1801,7 +2041,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1819,7 +2061,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-01",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -1837,7 +2081,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1855,7 +2101,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_5c54ff26a58e6607",
@@ -1867,7 +2115,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_09d9c7bbac2d5feb",
@@ -1879,7 +2129,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1897,7 +2149,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_e7446f6a917ad79d",
@@ -1909,7 +2163,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -1927,7 +2183,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_ff22208b3a73b19e",
@@ -1939,7 +2197,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_f3b65fb96b97cbd8",
@@ -1951,7 +2211,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1969,7 +2231,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_383bcb14b16dd5fb",
@@ -1981,7 +2245,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1999,7 +2265,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_66dcc09aea28d550",
@@ -2011,7 +2279,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2029,7 +2299,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_3898ace66f5a5b8d",
@@ -2041,7 +2313,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2059,7 +2333,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-01",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_b47a69824e9c7fa8",
@@ -2071,7 +2347,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-01",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_f0e7dae61b60a327",
@@ -2083,7 +2361,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-01",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2101,7 +2381,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_e2988d9f6e493916",
@@ -2113,7 +2395,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2131,7 +2415,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_bb846c2dcac1845f",
@@ -2143,7 +2429,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_0cf5ecdbbc3b89aa",
@@ -2155,7 +2443,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2173,7 +2463,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "중속"
         },
         {
           "id": "evorkr_e83f79d4788f2d79",
@@ -2185,7 +2477,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_3be93126b3b3f511",
@@ -2197,7 +2491,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_19f11d9d1308608d",
@@ -2209,7 +2505,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2227,7 +2525,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -2245,7 +2545,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_59f4bf7c2417bf70",
@@ -2257,7 +2559,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_07f173989aad8908",
@@ -2269,7 +2573,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2287,7 +2593,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-16",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_fc8a2708de1347b7",
@@ -2299,7 +2607,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-16",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_f6889f4445baaa56",
@@ -2311,7 +2621,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-16",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2329,7 +2641,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)①"
         },
         {
           "id": "evorkr_5bd1efed6d74bb09",
@@ -2341,7 +2655,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         },
         {
           "id": "evorkr_c52e4e3e98ef4dcc",
@@ -2353,7 +2669,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -2371,7 +2689,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_952c73867b863b50",
@@ -2383,7 +2703,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2401,7 +2723,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_25583780343aedaf",
@@ -2413,7 +2737,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2431,7 +2757,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         },
         {
           "id": "evorkr_8f31dbdda743f8f0",
@@ -2443,7 +2771,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속①"
         }
       ]
     },
@@ -2461,7 +2791,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_0bee7990cb8960d2",
@@ -2473,7 +2805,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2491,7 +2825,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-20",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_d20151ec9ebf6438",
@@ -2503,7 +2839,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-20",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_4b6e2885241058a7",
@@ -2515,7 +2853,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-20",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2533,7 +2873,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-08",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_f2f7ead2fefe7c44",
@@ -2545,7 +2887,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-08",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2563,7 +2907,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-02",
+          "sourceCapacityGroup": "중속"
         },
         {
           "id": "evorkr_36a743c965c32643",
@@ -2575,7 +2921,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-02",
+          "sourceCapacityGroup": "급속(100kW미만)③"
         },
         {
           "id": "evorkr_3afc7438858bddaf",
@@ -2587,7 +2935,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-02",
+          "sourceCapacityGroup": "급속(100kW이상)④"
         },
         {
           "id": "evorkr_aefa66766e2a6fa9",
@@ -2599,7 +2949,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-07-02",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2617,7 +2969,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-06-24",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -2635,7 +2989,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "중속"
         },
         {
           "id": "evorkr_b109cb5cae283d1d",
@@ -2647,7 +3003,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_5129ada36dca5970",
@@ -2659,7 +3017,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_cd810f23a565b7e4",
@@ -2671,7 +3031,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2689,7 +3051,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_bb959eb7790d71da",
@@ -2701,7 +3065,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2719,7 +3085,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         }
       ]
     },
@@ -2737,7 +3105,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-25",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_c7839c0c514e7fb2",
@@ -2749,7 +3119,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-25",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2767,7 +3139,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-30",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2785,7 +3159,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_3943a576b1d642af",
@@ -2797,7 +3173,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2815,7 +3193,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-24",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_c697453610873ba1",
@@ -2827,7 +3207,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-24",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2845,7 +3227,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_0bc85f1cb112acda",
@@ -2857,7 +3241,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2875,7 +3261,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_20451032853add71",
@@ -2887,7 +3275,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2905,7 +3295,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2923,7 +3315,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_76de7ac379f7c893",
@@ -2935,7 +3329,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_67c0bfd7209f6406",
@@ -2947,7 +3343,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2965,7 +3363,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_a99d8367f4c44758",
@@ -2977,7 +3377,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -2995,7 +3397,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_21fb84ac3b64afe1",
@@ -3007,7 +3411,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_ff7521b4f522a5ab",
@@ -3019,7 +3425,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -3037,7 +3445,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-21",
+          "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
           "id": "evorkr_49a80b8494692582",
@@ -3049,7 +3459,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
           "id": "evorkr_7fa78daa55aedd9a",
@@ -3061,7 +3473,9 @@
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
-          "sourceName": "ev.or.kr"
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-21",
+          "sourceCapacityGroup": "완속"
         }
       ]
     }

@@ -14,9 +14,9 @@
     },
     "tariffs.json": {
       "path": "tariffs.json",
-      "sha256": "5f8b364a87af1e970f76178c5f1ce40c545a157e3567920a24c9a43ce94cc5a4",
-      "data_version": "20260705T185847+0900",
-      "generated_at": "2026-07-05T18:58:47+09:00"
+      "sha256": "8b7f91d310d5dd1fd50025d2c090ff2db5fe3bd5113f1a679a8ee0eb5c567376",
+      "data_version": "20260705T212456+0900",
+      "generated_at": "2026-07-05T21:24:56+09:00"
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
