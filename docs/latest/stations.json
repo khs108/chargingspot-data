@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "20260705T201744+0900",
+  "generatedAt": "2026-07-05T20:17:44+09:00",
+  "source": {
+    "name": "official EV charging station static data",
+    "retrievedAt": "2026-07-05T11:17:44.681258+00:00"
+  },
+  "stations": [
+    {
+      "stationID": "ST-TEST-000001",
+      "stationName": "역삼역 공영주차장 충전소",
+      "operatorID": "me",
+      "operatorName": "기후에너지환경부",
+      "address": "서울특별시 강남구 테헤란로",
+      "roadAddress": "서울특별시 강남구 테헤란로",
+      "lotAddress": "서울특별시 강남구 역삼동",
+      "latitude": 37.5001,
+      "longitude": 127.0364,
+      "coordinateType": "wgs84",
+      "coordinateSource": "official",
+      "facilityType": "parkingLot",
+      "isPublic": true,
+      "operationStatus": "available",
+      "openingHours": {
+        "weekday": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "saturday": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "holiday": {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      },
+      "chargers": [
+        {
+          "chargerID": "CH-TEST-000001",
+          "chargerType": "dcCombo",
+          "speedClass": "fast",
+          "powerKW": 100.0,
+          "isPublic": true,
+          "operationStatus": "available",
+          "statusSource": "static",
+          "lastStaticUpdatedAt": "2026-07-05T11:17:44.681258+00:00"
+        }
+      ],
+      "dataQuality": {
+        "coordinateConfidence": 90,
+        "operatorMatchConfidence": 90,
+        "chargerSpecConfidence": 90
+      }
+    }
+  ]
+}

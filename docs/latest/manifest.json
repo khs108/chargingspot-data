@@ -6,6 +6,12 @@
   "sha256": "d8f2f9002e9a56d00a071423a02dbfd56471a41ba6956923a22b6e73a029061d",
   "min_app_version": "0.1.0",
   "files": {
+    "stations.json": {
+      "path": "stations.json",
+      "sha256": "3a8b2e82c9d64b2b782f28e21dc0b9df7c3c57494755f8606f6be6dbb5f303b3",
+      "data_version": "20260705T201744+0900",
+      "generated_at": "2026-07-05T20:17:44+09:00"
+    },
     "tariffs.json": {
       "path": "tariffs.json",
       "sha256": "5f8b364a87af1e970f76178c5f1ce40c545a157e3567920a24c9a43ce94cc5a4",
