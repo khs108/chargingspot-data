@@ -14,9 +14,9 @@
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
-      "sha256": "d0f2e613f15b37fb58a3ff7b279e8c226afc7c238489e62e965843bc8aeee02f",
-      "data_version": "20260705T191747+0900",
-      "generated_at": "2026-07-05T19:17:47+09:00"
+      "sha256": "3db090ae0a249dde9cd28507567c48fdcd81798aa8751384f85b44b5d3d54eee",
+      "data_version": "20260705T192816+0900",
+      "generated_at": "2026-07-05T19:28:16+09:00"
     },
     "charging_price_rules.json": {
       "path": "charging_price_rules.json",

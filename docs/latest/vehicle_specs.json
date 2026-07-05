@@ -1,6 +1,31 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260705T191747+0900",
-  "generatedAt": "2026-07-05T19:17:47+09:00",
-  "vehicles": []
+  "dataVersion": "20260705T192816+0900",
+  "generatedAt": "2026-07-05T19:28:16+09:00",
+  "vehicles": [
+    {
+      "id": "bmw-i4-edrive40-2024",
+      "manufacturer": "BMW",
+      "modelName": "i4",
+      "modelYear": "2024",
+      "trimName": "eDrive40",
+      "certifiedRangeKm": 429.0,
+      "batteryCapacityKWh": 83.9,
+      "usableBatteryCapacityKWh": 80.7,
+      "efficiencyKmPerKWh": 5.32,
+      "efficiencyBasis": "certifiedRangeKm / usableBatteryCapacityKWh",
+      "maxDcChargingKw": 205.0,
+      "maxAcChargingKw": 11.0,
+      "connectorTypes": [
+        "dcCombo",
+        "ac7Pin"
+      ],
+      "source": {
+        "rangeSourceName": "manual seed pending official API verification",
+        "batterySourceName": "manual seed pending manufacturer verification",
+        "subsidySourceName": "manual seed pending ev.or.kr verification",
+        "retrievedAt": "2026-07-05T20:00:00+09:00"
+      }
+    }
+  ]
 }
