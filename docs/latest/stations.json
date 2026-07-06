@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260705T201744+0900",
-  "generatedAt": "2026-07-05T20:17:44+09:00",
+  "dataVersion": "20260706T222436+0900",
+  "generatedAt": "2026-07-06T22:24:36+09:00",
   "source": {
     "name": "official EV charging station static data",
-    "retrievedAt": "2026-07-05T11:17:44.681258+00:00"
+    "retrievedAt": "2026-07-06T13:24:36.890315+00:00"
   },
   "stations": [
     {
@@ -45,12 +45,12 @@
           "isPublic": true,
           "operationStatus": "available",
           "statusSource": "static",
-          "lastStaticUpdatedAt": "2026-07-05T11:17:44.681258+00:00"
+          "lastStaticUpdatedAt": "2026-07-06T13:24:36.890315+00:00"
         }
       ],
       "dataQuality": {
         "coordinateConfidence": 90,
-        "operatorMatchConfidence": 90,
+        "operatorMatchConfidence": 80,
         "chargerSpecConfidence": 90
       }
     }
