@@ -20,9 +20,9 @@
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
-      "sha256": "0acfa1df61aaa5113a26fdac780dfe876a81bc27c1bbe1f97394830d17329a9d",
-      "data_version": "20260709T220849+0900",
-      "generated_at": "2026-07-09T22:08:49+09:00"
+      "sha256": "96ab8057a11ddf5014030a7a6151c9236dbc90d0015065261c1bf7e4da22c8c4",
+      "data_version": "20260709T223153+0900",
+      "generated_at": "2026-07-09T22:31:53+09:00"
     },
     "parking_lots.json": {
       "path": "parking_lots.json",

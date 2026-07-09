@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260709T220849+0900",
-  "generatedAt": "2026-07-09T22:08:49+09:00",
+  "dataVersion": "20260709T223153+0900",
+  "generatedAt": "2026-07-09T22:31:53+09:00",
   "vehicles": [
     {
       "id": "bmw-i4-edrive40-2024",
@@ -49,6 +49,30 @@
         "batterySourceName": "Hyundai official IONIQ 5 specification, pending usable capacity verification",
         "subsidySourceName": "ev.or.kr subsidy target vehicle",
         "retrievedAt": "2026-07-09T20:00:00+09:00"
+      }
+    },
+    {
+      "id": "kia-ev6-long-range-2024",
+      "manufacturer": "Kia",
+      "modelName": "EV6",
+      "modelYear": "2024",
+      "trimName": "Long Range",
+      "certifiedRangeKm": null,
+      "batteryCapacityKWh": 77.4,
+      "usableBatteryCapacityKWh": null,
+      "efficiencyKmPerKWh": null,
+      "efficiencyBasis": null,
+      "maxDcChargingKw": 240.0,
+      "maxAcChargingKw": 10.9,
+      "connectorTypes": [
+        "dcCombo",
+        "ac7Pin"
+      ],
+      "source": {
+        "rangeSourceName": "manual seed pending data.go.kr NIER EV range certification match",
+        "batterySourceName": "Kia official 2024 EV6 specification",
+        "subsidySourceName": "manual seed pending ev.or.kr verification",
+        "retrievedAt": "2026-07-09T20:30:00+09:00"
       }
     }
   ]
