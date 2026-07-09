@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "data_version": "20260629T194013+0900",
-  "generated_at": "2026-06-29T19:40:13+09:00",
+  "data_version": "20260709T214848+0900",
+  "generated_at": "2026-07-09T21:48:48+09:00",
   "rules_url": "https://khs108.github.io/chargingspot-data/latest/charging_price_rules.json",
-  "sha256": "d8f2f9002e9a56d00a071423a02dbfd56471a41ba6956923a22b6e73a029061d",
+  "sha256": "aae843370b91ec14406f1d9e92c7798bebac853a31a3c95077a510ecfc893bc4",
   "min_app_version": "0.1.0",
   "files": {
     "stations.json": {
@@ -20,9 +20,9 @@
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
-      "sha256": "16e68c475fb7aabfbd92ae151a517ea18e87bc29f06eb71543f42c8bc3817379",
-      "data_version": "20260705T215132+0900",
-      "generated_at": "2026-07-05T21:51:32+09:00"
+      "sha256": "0acfa1df61aaa5113a26fdac780dfe876a81bc27c1bbe1f97394830d17329a9d",
+      "data_version": "20260709T220849+0900",
+      "generated_at": "2026-07-09T22:08:49+09:00"
     },
     "parking_lots.json": {
       "path": "parking_lots.json",
@@ -32,9 +32,9 @@
     },
     "charging_price_rules.json": {
       "path": "charging_price_rules.json",
-      "sha256": "d8f2f9002e9a56d00a071423a02dbfd56471a41ba6956923a22b6e73a029061d",
-      "data_version": "20260629T194013+0900",
-      "generated_at": "2026-06-29T19:40:13+09:00"
+      "sha256": "aae843370b91ec14406f1d9e92c7798bebac853a31a3c95077a510ecfc893bc4",
+      "data_version": "20260709T214848+0900",
+      "generated_at": "2026-07-09T21:48:48+09:00"
     }
   }
 }
