@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260705T215132+0900",
-  "generatedAt": "2026-07-05T21:51:32+09:00",
+  "dataVersion": "20260709T220646+0900",
+  "generatedAt": "2026-07-09T22:06:46+09:00",
   "vehicles": [
     {
       "id": "bmw-i4-edrive40-2024",
@@ -23,8 +23,8 @@
       "source": {
         "rangeSourceName": "data.go.kr NIER EV range certification API",
         "batterySourceName": "manual seed pending manufacturer verification",
-        "subsidySourceName": "ev.or.kr subsidy target vehicle",
-        "retrievedAt": "2026-07-05T12:51:32+00:00"
+        "subsidySourceName": "manual seed pending ev.or.kr verification",
+        "retrievedAt": "2026-07-05T20:00:00+09:00"
       }
     },
     {
@@ -34,18 +34,21 @@
       "modelYear": "2024",
       "trimName": "Long Range",
       "certifiedRangeKm": 485.0,
-      "batteryCapacityKWh": null,
+      "batteryCapacityKWh": 84.0,
       "usableBatteryCapacityKWh": null,
       "efficiencyKmPerKWh": null,
       "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
+      "maxDcChargingKw": 260.0,
+      "maxAcChargingKw": 11.0,
+      "connectorTypes": [
+        "dcCombo",
+        "ac7Pin"
+      ],
       "source": {
         "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
+        "batterySourceName": "Hyundai official IONIQ 5 specification, pending usable capacity verification",
         "subsidySourceName": "ev.or.kr subsidy target vehicle",
-        "retrievedAt": "2026-07-05T12:51:32+00:00"
+        "retrievedAt": "2026-07-09T20:00:00+09:00"
       }
     }
   ]
