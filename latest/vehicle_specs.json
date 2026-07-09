@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "20260709T220849+0900",
+  "generatedAt": "2026-07-09T22:08:49+09:00",
+  "vehicles": [
+    {
+      "id": "bmw-i4-edrive40-2024",
+      "manufacturer": "BMW",
+      "modelName": "i4",
+      "modelYear": "2024",
+      "trimName": "eDrive40",
+      "certifiedRangeKm": 429.0,
+      "batteryCapacityKWh": 83.9,
+      "usableBatteryCapacityKWh": 80.7,
+      "efficiencyKmPerKWh": 5.32,
+      "efficiencyBasis": "certifiedRangeKm / usableBatteryCapacityKWh",
+      "maxDcChargingKw": 205.0,
+      "maxAcChargingKw": 11.0,
+      "connectorTypes": [
+        "dcCombo",
+        "ac7Pin"
+      ],
+      "source": {
+        "rangeSourceName": "data.go.kr NIER EV range certification API",
+        "batterySourceName": "manual seed pending manufacturer verification",
+        "subsidySourceName": "manual seed pending ev.or.kr verification",
+        "retrievedAt": "2026-07-05T20:00:00+09:00"
+      }
+    },
+    {
+      "id": "hyundai-ioniq-5-long-range-2024",
+      "manufacturer": "Hyundai",
+      "modelName": "IONIQ 5",
+      "modelYear": "2024",
+      "trimName": "Long Range",
+      "certifiedRangeKm": 485.0,
+      "batteryCapacityKWh": 84.0,
+      "usableBatteryCapacityKWh": null,
+      "efficiencyKmPerKWh": null,
+      "efficiencyBasis": null,
+      "maxDcChargingKw": 260.0,
+      "maxAcChargingKw": 11.0,
+      "connectorTypes": [
+        "dcCombo",
+        "ac7Pin"
+      ],
+      "source": {
+        "rangeSourceName": "data.go.kr NIER EV range certification API",
+        "batterySourceName": "Hyundai official IONIQ 5 specification, pending usable capacity verification",
+        "subsidySourceName": "ev.or.kr subsidy target vehicle",
+        "retrievedAt": "2026-07-09T20:00:00+09:00"
+      }
+    }
+  ]
+}
