@@ -8,15 +8,15 @@
   "files": {
     "stations.json": {
       "path": "stations.json",
-      "sha256": "7c0c8e4028bddf80bb58b9ab558052e16929fcd993d6b1a8972c35eb01bc5798",
-      "data_version": "20260706T233340+0900",
-      "generated_at": "2026-07-06T23:33:40+09:00"
+      "sha256": "b956e624eb9e396442492b69a815f6481822b2381397ba935a4525844da6f8d5",
+      "data_version": "20260712T133112+0900",
+      "generated_at": "2026-07-12T13:31:12+09:00"
     },
     "tariffs.json": {
       "path": "tariffs.json",
-      "sha256": "8b7f91d310d5dd1fd50025d2c090ff2db5fe3bd5113f1a679a8ee0eb5c567376",
-      "data_version": "20260705T212456+0900",
-      "generated_at": "2026-07-05T21:24:56+09:00"
+      "sha256": "6d967f403805fe4ca219dca3119645535c00222a289e1452e2a524b27f8243a3",
+      "data_version": "20260712T133112+0900",
+      "generated_at": "2026-07-12T13:31:12+09:00"
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
