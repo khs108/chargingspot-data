@@ -1,1171 +1,1682 @@
-{
-  "schemaVersion": 1,
-  "dataVersion": "20260709T231041+0900",
-  "generatedAt": "2026-07-09T23:10:41+09:00",
-  "vehicles": [
-    {
-      "id": "bmw-i4-edrive40-2024",
-      "manufacturer": "BMW",
-      "modelName": "i4",
-      "modelYear": "2024",
-      "trimName": "eDrive40",
-      "certifiedRangeKm": 429.0,
-      "batteryCapacityKWh": 83.9,
-      "usableBatteryCapacityKWh": 80.7,
-      "efficiencyKmPerKWh": 5.32,
-      "efficiencyBasis": "certifiedRangeKm / usableBatteryCapacityKWh",
-      "maxDcChargingKw": 205.0,
-      "maxAcChargingKw": 11.0,
-      "connectorTypes": [
-        "dcCombo",
-        "ac7Pin"
-      ],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": "manual seed pending manufacturer verification",
-        "subsidySourceName": "manual seed pending ev.or.kr verification",
-        "retrievedAt": "2026-07-05T20:00:00+09:00"
-      }
-    },
-    {
-      "id": "hyundai-ioniq-5-long-range-2024",
-      "manufacturer": "Hyundai",
-      "modelName": "IONIQ 5",
-      "modelYear": "2024",
-      "trimName": "Long Range",
-      "certifiedRangeKm": 485.0,
-      "batteryCapacityKWh": 84.0,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": 260.0,
-      "maxAcChargingKw": 11.0,
-      "connectorTypes": [
-        "dcCombo",
-        "ac7Pin"
-      ],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": "Hyundai official IONIQ 5 specification, pending usable capacity verification",
-        "subsidySourceName": "ev.or.kr subsidy target vehicle",
-        "retrievedAt": "2026-07-09T20:00:00+09:00"
-      }
-    },
-    {
-      "id": "kia-ev6-long-range-2024",
-      "manufacturer": "Kia",
-      "modelName": "EV6",
-      "modelYear": "2024",
-      "trimName": "Long Range",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": 77.4,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": 240.0,
-      "maxAcChargingKw": 10.9,
-      "connectorTypes": [
-        "dcCombo",
-        "ac7Pin"
-      ],
-      "source": {
-        "rangeSourceName": "manual seed pending data.go.kr NIER EV range certification match",
-        "batterySourceName": "Kia official 2024 EV6 specification",
-        "subsidySourceName": "manual seed pending ev.or.kr verification",
-        "retrievedAt": "2026-07-09T20:30:00+09:00"
-      }
-    },
-    {
-      "id": "자일대우버스주-bs110cn-bs110cn-clkzan391b2-2019",
-      "manufacturer": "자일대우버스(주)",
-      "modelName": "BS110CN",
-      "modelYear": "2019",
-      "trimName": "BS110CN-CLKZAN391B2",
-      "certifiedRangeKm": 145.7,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "자일대우버스주-bs110cn-bs110ev249-cllzan451s-2020",
-      "manufacturer": "자일대우버스(주)",
-      "modelName": "BS110CN",
-      "modelYear": "2020",
-      "trimName": "BS110EV(249)-CLLZAN451S",
-      "certifiedRangeKm": 294.69,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "자일대우버스주-fx120-fx120ev-gpksan401s-2019",
-      "manufacturer": "자일대우버스(주)",
-      "modelName": "FX120",
-      "modelYear": "2019",
-      "trimName": "FX120EV-GPKSAN401S",
-      "certifiedRangeKm": 228.1,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-동일차기쎈-fe5be1c-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "(동일차)기쎈",
-      "modelYear": "2026",
-      "trimName": "FE5BE1C",
-      "certifiedRangeKm": 227.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-fe5ae1-2025",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2025",
-      "trimName": "FE5AE1",
-      "certifiedRangeKm": 229.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-fe5ne1-2025",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2025",
-      "trimName": "FE5NE1",
-      "certifiedRangeKm": 260.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-ee6be2-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2026",
-      "trimName": "EE6BE2",
-      "certifiedRangeKm": 519.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-ee6be2c-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2026",
-      "trimName": "EE6BE2C",
-      "certifiedRangeKm": 519.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-fe5ae1-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2026",
-      "trimName": "FE5AE1",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-fe5be1-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2026",
-      "trimName": "FE5BE1",
-      "certifiedRangeKm": 227.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "타타대우모빌리티주-기쎈-fe5ne1-2026",
-      "manufacturer": "타타대우모빌리티(주)",
-      "modelName": "기쎈",
-      "modelYear": "2026",
-      "trimName": "FE5NE1",
-      "certifiedRangeKm": 298.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-g80-electrified-rg3pe-ev-g7a-2024",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "G80 Electrified",
-      "modelYear": "2024",
-      "trimName": "RG3PE-EV-G7A",
-      "certifiedRangeKm": 489.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-g80-electrified-rg3pe-ev-g7a-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "G80 Electrified",
-      "modelYear": "2025",
-      "trimName": "RG3PE-EV-G7A",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-g80-electrified-rg3pe-ev-g7a-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "G80 Electrified",
-      "modelYear": "2026",
-      "trimName": "RG3PE-EV-G7A",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv60-마그마-jwflm-ev-g7a-hpv-21-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV60 마그마",
-      "modelYear": "2025",
-      "trimName": "JWFLM-EV-G7A-HPV-21",
-      "certifiedRangeKm": 346.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv60-마그마-jwflm-ev-g7a-hpv-21-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV60 마그마",
-      "modelYear": "2026",
-      "trimName": "JWFLM-EV-G7A-HPV-21",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-19인치-jk1fl-ev-g7a-19-2024",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 19인치",
-      "modelYear": "2024",
-      "trimName": "JK1FL-EV-G7A-19",
-      "certifiedRangeKm": 423.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-19인치-jk1fl-ev-g7a-19-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 19인치",
-      "modelYear": "2025",
-      "trimName": "JK1FL-EV-G7A-19",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-19인치-jk1fl-ev-g7a-19-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 19인치",
-      "modelYear": "2026",
-      "trimName": "JK1FL-EV-G7A-19",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-20인치-jk1fl-ev-g7a-20-2024",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 20인치",
-      "modelYear": "2024",
-      "trimName": "JK1FL-EV-G7A-20",
-      "certifiedRangeKm": 405.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-20인치-jk1fl-ev-g7a-20-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 20인치",
-      "modelYear": "2025",
-      "trimName": "JK1FL-EV-G7A-20",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-gv70-electrified-20인치-jk1fl-ev-g7a-20-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "GV70 Electrified 20인치",
-      "modelYear": "2026",
-      "trimName": "JK1FL-EV-G7A-20",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-스타리아-pe-ev-6인-us4pe-ev6-16aaa-2w-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "스타리아 PE EV 6인",
-      "modelYear": "2026",
-      "trimName": "US4PE-EV6-16AAA-2W",
-      "certifiedRangeKm": 370.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-스타리아-pe-ev-7인-us4pe-ev7-16aaa-2w-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "스타리아 PE EV 7인",
-      "modelYear": "2026",
-      "trimName": "US4PE-EV7-16AAA-2W",
-      "certifiedRangeKm": 370.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉5-기본형-rwd-개조차-nepe-ev-g7a-st2w-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉5 기본형 RWD 개조차",
-      "modelYear": "2025",
-      "trimName": "NEPE-EV-G7A-ST2W",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉5-기본형-rwd-개조차-nepe-ev-g7a-st2w-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉5 기본형 RWD 개조차",
-      "modelYear": "2026",
-      "trimName": "NEPE-EV-G7A-ST2W",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-n-ce1fln-ev-g7a-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL N",
-      "modelYear": "2025",
-      "trimName": "CE1FLN-EV-G7A",
-      "certifiedRangeKm": 401.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-기본형-2wd-18인치-ce1fl-ev-g7a-st2w-18-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 기본형 2WD 18인치",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-ST2W-18",
-      "certifiedRangeKm": 442.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-항속형-awd-18인치-ce1fl-ev-g7a-ex4w-18-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 항속형 AWD 18인치",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-EX4W-18",
-      "certifiedRangeKm": 549.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-항속형-awd-20인치-ce1fl-ev-g7a-ex4w-20-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 항속형 AWD 20인치",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-EX4W-20",
-      "certifiedRangeKm": 448.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-항속형-awd-20인치-n-line-ce1fl-ev-g7a-ex4w-18-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 항속형 AWD 20인치 N-Line",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-EX4W-18",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-항속형-awd-20인치-n-line-ce1fl-ev-g7a-ex4w-20-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 항속형 AWD 20인치 N-Line",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-EX4W-20",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-아이오닉6-fl-항속형-awd-20인치-n-line-ce1fl-ev-g7a-ex4w-20-nl-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "아이오닉6 FL 항속형 AWD 20인치 N-Line",
-      "modelYear": "2025",
-      "trimName": "CE1FL-EV-G7A-EX4W-20-NL",
-      "certifiedRangeKm": 431.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2017-22e6p-c-2022",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2022",
-      "trimName": "ECS2017-22E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2313-22e6p-c-2022",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2022",
-      "trimName": "ECS2313-22E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2017-22e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2017-22E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2017-23e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2017-23E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2017-24e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2017-24E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2313-22e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2313-22E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2313-23e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2313-23E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2313-24e6p-c-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2025",
-      "trimName": "ECS2313-24E6P-C",
-      "certifiedRangeKm": 338.3,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2017-26e6p-c-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2026",
-      "trimName": "ECS2017-26E6P-C",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-카운티-일렉트릭-ecs2313-26e6p-c-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "카운티 일렉트릭",
-      "modelYear": "2026",
-      "trimName": "ECS2313-26E6P-C",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-캐스퍼-ev-기본형-15인치-ax-ev-g7a-std-15-2024",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "캐스퍼 EV 기본형 15인치",
-      "modelYear": "2024",
-      "trimName": "AX-EV-G7A-STD-15",
-      "certifiedRangeKm": 281.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-캐스퍼-ev-기본형-15인치-ax-ev-g7a-std-15-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "캐스퍼 EV 기본형 15인치",
-      "modelYear": "2025",
-      "trimName": "AX-EV-G7A-STD-15",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-캐스퍼-ev-기본형-15인치-ax-ev-g7a-std-15-2026",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "캐스퍼 EV 기본형 15인치",
-      "modelYear": "2026",
-      "trimName": "AX-EV-G7A-STD-15",
-      "certifiedRangeKm": null,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-내장탑-hr-ev-g7a-se-2wd-nd-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 내장탑",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-ND",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-저상내장탑-hr-ev-g7a-se-2wd-ld-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 저상내장탑",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-LD",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-전동식-윙바디-hr-ev-g7a-se-2wd-a-nw-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 전동식 윙바디",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-A-NW",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-특장차-hr-ev-g7a-se-2wd-m-nw-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 특장차",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-M-NW",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-파워게이트-hr-ev-g7a-se-2wd-np-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 파워게이트",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-NP",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    },
-    {
-      "id": "현대자동차주-포터-일렉트릭-하이내장탑-hr-ev-g7a-se-2wd-hd-2025",
-      "manufacturer": "현대자동차(주)",
-      "modelName": "포터 일렉트릭 하이내장탑",
-      "modelYear": "2025",
-      "trimName": "HR-EV-G7A-SE-2WD-HD",
-      "certifiedRangeKm": 175.0,
-      "batteryCapacityKWh": null,
-      "usableBatteryCapacityKWh": null,
-      "efficiencyKmPerKWh": null,
-      "efficiencyBasis": null,
-      "maxDcChargingKw": null,
-      "maxAcChargingKw": null,
-      "connectorTypes": [],
-      "source": {
-        "rangeSourceName": "data.go.kr NIER EV range certification API",
-        "batterySourceName": null,
-        "subsidySourceName": null,
-        "retrievedAt": "2026-07-09T14:10:10+00:00"
-      }
-    }
-  ]
-}
+[
+  {
+    "vehicleID": "hyundai-ioniq-electric-2019-facelift-fwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 일렉트릭",
+    "trimName": "더 뉴 (후기형)",
+    "modelYear": 2019,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 38.3,
+    "defaultEfficiencyKmPerKWh": 6.3,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq-electric-2016-early-fwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 일렉트릭",
+    "trimName": "초기형",
+    "modelYear": 2016,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 28,
+    "defaultEfficiencyKmPerKWh": 6.3,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-kona-electric-2018-1st-gen-64kwh-fwd",
+    "manufacturer": "현대",
+    "modelName": "코나 일렉트릭",
+    "trimName": "1세대 (64kWh)",
+    "modelYear": 2018,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64,
+    "defaultEfficiencyKmPerKWh": 5.6,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-kona-electric-2018-1st-gen-39.2kwh-fwd",
+    "manufacturer": "현대",
+    "modelName": "코나 일렉트릭",
+    "trimName": "1세대 (39.2kWh)",
+    "modelYear": 2018,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 39.2,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2024-longrange-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "롱레인지",
+    "modelYear": 2024,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2021-longrange-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "롱레인지",
+    "modelYear": 2021,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 70,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2023-longrange-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "롱레인지",
+    "modelYear": 2023,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2021-standard-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "스탠다드",
+    "modelYear": 2021,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 54,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2021-standard-awd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "스탠다드",
+    "modelYear": 2021,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 54,
+    "defaultEfficiencyKmPerKWh": 4.8,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq5-2021-longrange-awd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 5",
+    "trimName": "롱레인지",
+    "modelYear": 2021,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 70,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq6-2023-longrange-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 6",
+    "trimName": "롱레인지",
+    "modelYear": 2023,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 6,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq6-2023-longrange-awd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 6",
+    "trimName": "롱레인지",
+    "modelYear": 2023,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 5.5,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq6-2023-standard-rwd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 6",
+    "trimName": "스탠다드",
+    "modelYear": 2023,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 50,
+    "defaultEfficiencyKmPerKWh": 6.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-ioniq6-2026-n-awd",
+    "manufacturer": "현대",
+    "modelName": "아이오닉 6",
+    "trimName": "N",
+    "modelYear": 2026,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-kona-electric-2023-longrange-fwd",
+    "manufacturer": "현대",
+    "modelName": "코나 일렉트릭",
+    "trimName": "롱레인지",
+    "modelYear": 2023,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 65.4,
+    "defaultEfficiencyKmPerKWh": 5.5,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-kona-electric-2023-standard-fwd",
+    "manufacturer": "현대",
+    "modelName": "코나 일렉트릭",
+    "trimName": "스탠다드",
+    "modelYear": 2023,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 48.4,
+    "defaultEfficiencyKmPerKWh": 5.5,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-casper-electric-2024-longrange-fwd",
+    "manufacturer": "현대",
+    "modelName": "캐스퍼 일렉트릭",
+    "trimName": "항속형",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 46,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "hyundai-casper-electric-2024-standard-fwd",
+    "manufacturer": "현대",
+    "modelName": "캐스퍼 일렉트릭",
+    "trimName": "기본형",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 39,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2025-standard-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 55,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2025-longrange-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2025-longrange-awd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2025-gt-awd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "GT",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2026-standard-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "스탠다드",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 55,
+    "defaultEfficiencyKmPerKWh": 5.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev3-2026-longrange-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV3",
+    "trimName": "롱레인지",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev4-2025-standard-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV4",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 55,
+    "defaultEfficiencyKmPerKWh": 5.8,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev4-2025-standard-awd",
+    "manufacturer": "기아",
+    "modelName": "EV4",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 55,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev4-2025-longrange-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV4",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": 5.8,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev4-2025-longrange-awd",
+    "manufacturer": "기아",
+    "modelName": "EV4",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev4-2025-gt-line-fwd",
+    "manufacturer": "기아",
+    "modelName": "EV4",
+    "trimName": "GT-Line",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 78,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev6-2025-standard-rwd",
+    "manufacturer": "기아",
+    "modelName": "EV6",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 60,
+    "defaultEfficiencyKmPerKWh": 5.3,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev6-2025-longrange-rwd",
+    "manufacturer": "기아",
+    "modelName": "EV6",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 5.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev6-2025-longrange-awd",
+    "manufacturer": "기아",
+    "modelName": "EV6",
+    "trimName": "롱레인지",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 4.9,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev6-2021-longrange-rwd",
+    "manufacturer": "기아",
+    "modelName": "EV6",
+    "trimName": "롱레인지",
+    "modelYear": 2021,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev6-2021-gt-awd",
+    "manufacturer": "기아",
+    "modelName": "EV6",
+    "trimName": "GT",
+    "modelYear": 2021,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 3.9,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev9-2024-standard-rwd",
+    "manufacturer": "기아",
+    "modelName": "EV9",
+    "trimName": "스탠다드",
+    "modelYear": 2024,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 73,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev9-2024-longrange-rwd",
+    "manufacturer": "기아",
+    "modelName": "EV9",
+    "trimName": "롱레인지",
+    "modelYear": 2024,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 96,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev9-2024-longrange-awd",
+    "manufacturer": "기아",
+    "modelName": "EV9",
+    "trimName": "롱레인지",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 96,
+    "defaultEfficiencyKmPerKWh": 3.8,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ev9-2024-gt-line-awd",
+    "manufacturer": "기아",
+    "modelName": "EV9",
+    "trimName": "GT-Line",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 96,
+    "defaultEfficiencyKmPerKWh": 3.8,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-niro-plus-2022-standard-fwd",
+    "manufacturer": "기아",
+    "modelName": "니로 플러스",
+    "trimName": "기본형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-niro-ev-2018-1st-gen-fwd",
+    "manufacturer": "기아",
+    "modelName": "니로 EV",
+    "trimName": "1세대",
+    "modelYear": 2018,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-niro-ev-2022-2nd-gen-fwd",
+    "manufacturer": "기아",
+    "modelName": "니로 EV",
+    "trimName": "2세대",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64.8,
+    "defaultEfficiencyKmPerKWh": 5.3,
+    "maxDcChargingKw": 85,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-ray-ev-2023-2nd-gen-fwd",
+    "manufacturer": "기아",
+    "modelName": "레이 EV",
+    "trimName": "2세대",
+    "modelYear": 2023,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 35.2,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-soul-ev-2014-1st-gen-fwd",
+    "manufacturer": "기아",
+    "modelName": "쏘울 EV",
+    "trimName": "1세대",
+    "modelYear": 2014,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 27,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "chademo"
+    ]
+  },
+  {
+    "vehicleID": "kia-soul-booster-ev-2019-64kwh-fwd",
+    "manufacturer": "기아",
+    "modelName": "쏘울 부스터 EV",
+    "trimName": "64kWh",
+    "modelYear": 2019,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kia-soul-booster-ev-2019-39.2kwh-fwd",
+    "manufacturer": "기아",
+    "modelName": "쏘울 부스터 EV",
+    "trimName": "39.2kWh",
+    "modelYear": 2019,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 39.2,
+    "defaultEfficiencyKmPerKWh": 5.6,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "genesis-gv60-2025-standard-rwd",
+    "manufacturer": "제네시스",
+    "modelName": "GV60",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "genesis-gv60-2025-standard-awd",
+    "manufacturer": "제네시스",
+    "modelName": "GV60",
+    "trimName": "스탠다드",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 4.6,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "genesis-gv60-2025-performance-awd",
+    "manufacturer": "제네시스",
+    "modelName": "GV60",
+    "trimName": "퍼포먼스",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "genesis-gv70-electrified-2025-standard-awd",
+    "manufacturer": "제네시스",
+    "modelName": "GV70 전동화 모델",
+    "trimName": "기본형",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 80,
+    "defaultEfficiencyKmPerKWh": 4.6,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "genesis-g80-electrified-2025-standard-awd",
+    "manufacturer": "제네시스",
+    "modelName": "G80 전동화 모델",
+    "trimName": "기본형",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 87.2,
+    "defaultEfficiencyKmPerKWh": 4.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kgm-torres-evx-2024-e5-fwd",
+    "manufacturer": "KG모빌리티",
+    "modelName": "토레스 EVX",
+    "trimName": "E5",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 73.4,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kgm-torres-evx-2024-e7-fwd",
+    "manufacturer": "KG모빌리티",
+    "modelName": "토레스 EVX",
+    "trimName": "E7",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 73.4,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kgm-korando-ev-2024-e5-fwd",
+    "manufacturer": "KG모빌리티",
+    "modelName": "코란도 EV",
+    "trimName": "E5",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 73.4,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "kgm-korando-ev-2024-taxi-fwd",
+    "manufacturer": "KG모빌리티",
+    "modelName": "코란도 EV",
+    "trimName": "택시",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 73.4,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "renault-scenic-e-tech-2025-techno-fwd",
+    "manufacturer": "르노코리아",
+    "modelName": "세닉 E-Tech",
+    "trimName": "테크노",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 87,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "renault-scenic-e-tech-2025-techno-plus-fwd",
+    "manufacturer": "르노코리아",
+    "modelName": "세닉 E-Tech",
+    "trimName": "테크노 플러스",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 87,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "renault-scenic-e-tech-2025-iconic-fwd",
+    "manufacturer": "르노코리아",
+    "modelName": "세닉 E-Tech",
+    "trimName": "아이코닉",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 87,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "chevrolet-bolt-ev-2022-fwd",
+    "manufacturer": "쉐보레",
+    "modelName": "볼트 EV",
+    "trimName": "2022년형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 65,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "chevrolet-bolt-euv-2022-fwd",
+    "manufacturer": "쉐보레",
+    "modelName": "볼트 EUV",
+    "trimName": "2022년형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 65,
+    "defaultEfficiencyKmPerKWh": 5.5,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-i3-120ah-rwd",
+    "manufacturer": "BMW",
+    "modelName": "i3",
+    "trimName": "120Ah",
+    "modelYear": 2019,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 37.9,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-ix3-msport-rwd",
+    "manufacturer": "BMW",
+    "modelName": "iX3",
+    "trimName": "M Sport",
+    "modelYear": 2021,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 74,
+    "defaultEfficiencyKmPerKWh": 4.1,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-i4-edrive40-rwd",
+    "manufacturer": "BMW",
+    "modelName": "i4",
+    "trimName": "eDrive40",
+    "modelYear": 2022,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 81.5,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 205,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-i4-m50-awd",
+    "manufacturer": "BMW",
+    "modelName": "i4",
+    "trimName": "M50",
+    "modelYear": 2022,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 81.5,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 205,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-ix-xdrive40-awd",
+    "manufacturer": "BMW",
+    "modelName": "iX",
+    "trimName": "xDrive40",
+    "modelYear": 2022,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 71,
+    "defaultEfficiencyKmPerKWh": 3.9,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-ix-xdrive50-awd",
+    "manufacturer": "BMW",
+    "modelName": "iX",
+    "trimName": "xDrive50",
+    "modelYear": 2022,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 105.8,
+    "defaultEfficiencyKmPerKWh": 3.6,
+    "maxDcChargingKw": 200,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-i7-xdrive60-awd",
+    "manufacturer": "BMW",
+    "modelName": "i7",
+    "trimName": "xDrive60",
+    "modelYear": 2023,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 101.7,
+    "defaultEfficiencyKmPerKWh": 3.7,
+    "maxDcChargingKw": 195,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-i5-edrive40-rwd",
+    "manufacturer": "BMW",
+    "modelName": "i5",
+    "trimName": "eDrive40",
+    "modelYear": 2024,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 81.2,
+    "defaultEfficiencyKmPerKWh": 4.8,
+    "maxDcChargingKw": 205,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "bmw-ix1-xdrive30-awd",
+    "manufacturer": "BMW",
+    "modelName": "iX1",
+    "trimName": "xDrive30",
+    "modelYear": 2023,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 64.7,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": 130,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-etron-50-quattro",
+    "manufacturer": "아우디",
+    "modelName": "e-트론",
+    "trimName": "50 콰트로",
+    "modelYear": 2020,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 64.7,
+    "defaultEfficiencyKmPerKWh": 2.9,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-etron-55-quattro",
+    "manufacturer": "아우디",
+    "modelName": "e-트론",
+    "trimName": "55 콰트로",
+    "modelYear": 2020,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 86.5,
+    "defaultEfficiencyKmPerKWh": 3,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 22,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-q4-etron-40-rwd",
+    "manufacturer": "아우디",
+    "modelName": "Q4 e-트론",
+    "trimName": "40",
+    "modelYear": 2022,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 76.6,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": 135,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-q8-etron-50-quattro",
+    "manufacturer": "아우디",
+    "modelName": "Q8 e-트론",
+    "trimName": "50 콰트로",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 89,
+    "defaultEfficiencyKmPerKWh": 3,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-q8-etron-55-quattro",
+    "manufacturer": "아우디",
+    "modelName": "Q8 e-트론",
+    "trimName": "55 콰트로",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 106,
+    "defaultEfficiencyKmPerKWh": 3,
+    "maxDcChargingKw": 170,
+    "maxAcChargingKw": 22,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-etron-gt-quattro",
+    "manufacturer": "아우디",
+    "modelName": "e-트론 GT",
+    "trimName": "콰트로",
+    "modelYear": 2022,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 83.7,
+    "defaultEfficiencyKmPerKWh": 3.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "audi-rs-etron-gt-performance",
+    "manufacturer": "아우디",
+    "modelName": "RS e-트론 GT",
+    "trimName": "퍼포먼스",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 97,
+    "defaultEfficiencyKmPerKWh": 3.4,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "volkswagen-egolf-2017-35.8kwh-fwd",
+    "manufacturer": "폭스바겐",
+    "modelName": "e-골프",
+    "trimName": "35.8kWh",
+    "modelYear": 2017,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 32,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": 7.2,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "volkswagen-id4-2026-pro-rwd",
+    "manufacturer": "폭스바겐",
+    "modelName": "ID.4",
+    "trimName": "Pro",
+    "modelYear": 2026,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 77,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "volkswagen-id5-2026-pro-rwd",
+    "manufacturer": "폭스바겐",
+    "modelName": "ID.5",
+    "trimName": "Pro",
+    "modelYear": 2026,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 77,
+    "defaultEfficiencyKmPerKWh": 5,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "porsche-taycan-2020-4s-awd",
+    "manufacturer": "포르쉐",
+    "modelName": "타이칸",
+    "trimName": "4S",
+    "modelYear": 2020,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 71,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "porsche-taycan-2020-turbo-awd",
+    "manufacturer": "포르쉐",
+    "modelName": "타이칸",
+    "trimName": "터보",
+    "modelYear": 2020,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 83.7,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "porsche-taycan-2025-4s-awd",
+    "manufacturer": "포르쉐",
+    "modelName": "타이칸",
+    "trimName": "4S",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 97,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 320,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "porsche-macan-electric-2024-4-awd",
+    "manufacturer": "포르쉐",
+    "modelName": "마칸 일렉트릭",
+    "trimName": "4",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 95,
+    "defaultEfficiencyKmPerKWh": 4,
+    "maxDcChargingKw": 270,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "porsche-macan-electric-2024-4s-awd",
+    "manufacturer": "포르쉐",
+    "modelName": "마칸 일렉트릭",
+    "trimName": "4S",
+    "modelYear": 2024,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 95,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 270,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-2-2020-longrange-fwd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 2",
+    "trimName": "롱레인지 싱글모터",
+    "modelYear": 2020,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 75,
+    "defaultEfficiencyKmPerKWh": 4.8,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-2-2020-longrange-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 2",
+    "trimName": "롱레인지 듀얼모터",
+    "modelYear": 2020,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 75,
+    "defaultEfficiencyKmPerKWh": 3.8,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-2-2025-standard-rwd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 2",
+    "trimName": "스탠다드레인지 싱글모터",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 67,
+    "defaultEfficiencyKmPerKWh": 5.2,
+    "maxDcChargingKw": 135,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-2-2025-longrange-rwd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 2",
+    "trimName": "롱레인지 싱글모터",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 75,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": 155,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-2-2025-longrange-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 2",
+    "trimName": "롱레인지 듀얼모터",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 75,
+    "defaultEfficiencyKmPerKWh": 4.3,
+    "maxDcChargingKw": 155,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-3-2027-rear-motor-rwd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 3",
+    "trimName": "리어 모터",
+    "modelYear": 2027,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 88,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 310,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-3-2027-dual-motor-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 3",
+    "trimName": "듀얼 모터",
+    "modelYear": 2027,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": null,
+    "defaultEfficiencyKmPerKWh": 4.1,
+    "maxDcChargingKw": 350,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-3-2027-performance-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 3",
+    "trimName": "퍼포먼스",
+    "modelYear": 2027,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": null,
+    "defaultEfficiencyKmPerKWh": 3.7,
+    "maxDcChargingKw": 350,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-4-2026-longrange-rwd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 4",
+    "trimName": "롱레인지 싱글모터",
+    "modelYear": 2026,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 94,
+    "defaultEfficiencyKmPerKWh": 4.6,
+    "maxDcChargingKw": 200,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-4-2026-longrange-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 4",
+    "trimName": "롱레인지 듀얼모터",
+    "modelYear": 2026,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 94,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": 200,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "polestar-4-2026-performance-awd",
+    "manufacturer": "폴스타",
+    "modelName": "폴스타 4",
+    "trimName": "롱레인지 듀얼모터 (퍼포먼스 팩)",
+    "modelYear": 2026,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 94,
+    "defaultEfficiencyKmPerKWh": 3.7,
+    "maxDcChargingKw": 200,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "peugeot-e208-2020-early-fwd",
+    "manufacturer": "푸조",
+    "modelName": "e-208",
+    "trimName": "초기형",
+    "modelYear": 2020,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 46.3,
+    "defaultEfficiencyKmPerKWh": 4.4,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "peugeot-e208-2022-late-fwd",
+    "manufacturer": "푸조",
+    "modelName": "e-208",
+    "trimName": "후기형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 46.3,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "peugeot-e2008-2020-early-fwd",
+    "manufacturer": "푸조",
+    "modelName": "e-2008",
+    "trimName": "초기형",
+    "modelYear": 2020,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 46.3,
+    "defaultEfficiencyKmPerKWh": 4.3,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "peugeot-e2008-2022-late-fwd",
+    "manufacturer": "푸조",
+    "modelName": "e-2008",
+    "trimName": "후기형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 46.3,
+    "defaultEfficiencyKmPerKWh": 4.9,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "mini-electric-2022-fwd",
+    "manufacturer": "미니",
+    "modelName": "일렉트릭",
+    "trimName": "기본형",
+    "modelYear": 2022,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 28.9,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": 50,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "mini-cooper-electric-2025-se-fwd",
+    "manufacturer": "미니",
+    "modelName": "쿠퍼 일렉트릭",
+    "trimName": "SE",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 54.2,
+    "defaultEfficiencyKmPerKWh": 5.3,
+    "maxDcChargingKw": 95,
+    "maxAcChargingKw": 7,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "mini-countryman-electric-2025-e-fwd",
+    "manufacturer": "미니",
+    "modelName": "컨트리맨 일렉트릭",
+    "trimName": "E",
+    "modelYear": 2025,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 64.7,
+    "defaultEfficiencyKmPerKWh": 4.8,
+    "maxDcChargingKw": 130,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "mini-countryman-electric-2025-se-all4-awd",
+    "manufacturer": "미니",
+    "modelName": "컨트리맨 일렉트릭",
+    "trimName": "SE ALL4",
+    "modelYear": 2025,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 64.7,
+    "defaultEfficiencyKmPerKWh": 4.4,
+    "maxDcChargingKw": 130,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "jeep-avenger-2024-longitude-fwd",
+    "manufacturer": "지프",
+    "modelName": "어벤저",
+    "trimName": "론지튜드",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 50.8,
+    "defaultEfficiencyKmPerKWh": 5,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "jeep-avenger-2024-altitude-fwd",
+    "manufacturer": "지프",
+    "modelName": "어벤저",
+    "trimName": "알티튜드",
+    "modelYear": 2024,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 50.8,
+    "defaultEfficiencyKmPerKWh": 5,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "ford-mustang-mach-e-2025-standard-rwd",
+    "manufacturer": "포드",
+    "modelName": "머스탱 마하-E",
+    "trimName": "스탠다드 레인지",
+    "modelYear": 2025,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 68,
+    "defaultEfficiencyKmPerKWh": null,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-dolphin-2026-base-fwd",
+    "manufacturer": "BYD",
+    "modelName": "돌핀",
+    "trimName": "기본형",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 49.9,
+    "defaultEfficiencyKmPerKWh": 5.5,
+    "maxDcChargingKw": 88,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-dolphin-2026-active-fwd",
+    "manufacturer": "BYD",
+    "modelName": "돌핀",
+    "trimName": "액티브",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 60.5,
+    "defaultEfficiencyKmPerKWh": 5.1,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-atto3-2026-base-fwd",
+    "manufacturer": "BYD",
+    "modelName": "아토 3",
+    "trimName": "기본형",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 60.5,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-atto3-2026-plus-fwd",
+    "manufacturer": "BYD",
+    "modelName": "아토 3",
+    "trimName": "플러스",
+    "modelYear": 2026,
+    "drivetrain": "FWD",
+    "usableBatteryCapacityKWh": 60.5,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-seal-2026-base-rwd",
+    "manufacturer": "BYD",
+    "modelName": "씰",
+    "trimName": "기본형",
+    "modelYear": 2026,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 82.5,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-seal-2026-plus-rwd",
+    "manufacturer": "BYD",
+    "modelName": "씰",
+    "trimName": "플러스",
+    "modelYear": 2026,
+    "drivetrain": "RWD",
+    "usableBatteryCapacityKWh": 82.5,
+    "defaultEfficiencyKmPerKWh": 4.7,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  },
+  {
+    "vehicleID": "byd-seal-2026-dynamic-awd",
+    "manufacturer": "BYD",
+    "modelName": "씰",
+    "trimName": "다이내믹 AWD",
+    "modelYear": 2026,
+    "drivetrain": "AWD",
+    "usableBatteryCapacityKWh": 82.5,
+    "defaultEfficiencyKmPerKWh": 4.2,
+    "maxDcChargingKw": null,
+    "maxAcChargingKw": null,
+    "connectorTypes": [
+      "dcCombo"
+    ]
+  }
+]
