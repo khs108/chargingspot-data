@@ -9,9 +9,10 @@
     "usableBatteryCapacityKWh": 38.3,
     "defaultEfficiencyKmPerKWh": 6.3,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -23,10 +24,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 28,
     "defaultEfficiencyKmPerKWh": 6.3,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 70,
+    "maxAcChargingKw": 6.6,
     "connectorTypes": [
-      "dcCombo"
+      "DC차데모(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -38,10 +40,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": 5.6,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 77,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -53,10 +56,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39.2,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 77,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -68,10 +72,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 260,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -83,10 +88,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 70,
     "defaultEfficiencyKmPerKWh": 5.1,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 220,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -98,10 +104,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.1,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -114,9 +121,10 @@
     "usableBatteryCapacityKWh": 54,
     "defaultEfficiencyKmPerKWh": 5.1,
     "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -129,9 +137,10 @@
     "usableBatteryCapacityKWh": 54,
     "defaultEfficiencyKmPerKWh": 4.8,
     "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -143,10 +152,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 70,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 220,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -158,10 +168,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 6,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -173,10 +184,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.5,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -188,10 +200,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 50,
     "defaultEfficiencyKmPerKWh": 6.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 180,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -203,10 +216,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 260,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -218,10 +232,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65.4,
     "defaultEfficiencyKmPerKWh": 5.5,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -233,10 +248,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 48.4,
     "defaultEfficiencyKmPerKWh": 5.5,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -248,10 +264,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -263,10 +280,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -278,10 +296,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -293,10 +312,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -308,10 +328,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -323,10 +344,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -338,10 +360,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -353,10 +376,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -368,10 +392,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.8,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -383,10 +408,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 102,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -398,10 +424,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.8,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -413,10 +440,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.1,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -428,10 +456,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 128,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -443,10 +472,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 60,
     "defaultEfficiencyKmPerKWh": 5.3,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 180,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -458,10 +488,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 5.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -473,10 +504,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.9,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -488,10 +520,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -503,10 +536,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 3.9,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -518,10 +552,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 73,
     "defaultEfficiencyKmPerKWh": 4.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 210,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -533,10 +568,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 4.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 210,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -548,10 +584,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 3.8,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 210,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -563,10 +600,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 3.8,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 210,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -578,10 +616,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 77,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -592,11 +631,12 @@
     "modelYear": 2018,
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
-    "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "defaultEfficiencyKmPerKWh": 5.3,
+    "maxDcChargingKw": 77,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -611,7 +651,8 @@
     "maxDcChargingKw": 85,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -623,10 +664,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 35.2,
     "defaultEfficiencyKmPerKWh": 5.1,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 50,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -637,11 +679,12 @@
     "modelYear": 2014,
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 27,
-    "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "defaultEfficiencyKmPerKWh": 5.2,
+    "maxDcChargingKw": 50,
+    "maxAcChargingKw": 6.6,
     "connectorTypes": [
-      "chademo"
+      "DC차데모(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -653,10 +696,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -668,10 +712,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39.2,
     "defaultEfficiencyKmPerKWh": 5.6,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -683,10 +728,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 5.1,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -698,10 +744,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.6,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -713,10 +760,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -728,10 +776,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.6,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 240,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -743,10 +792,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 87.2,
     "defaultEfficiencyKmPerKWh": 4.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 187,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -758,10 +808,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -773,10 +824,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 120,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -788,10 +840,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -803,10 +856,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 100,
+    "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -818,10 +872,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 22,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -833,10 +888,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 22,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -848,10 +904,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 22,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -863,10 +920,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65,
     "defaultEfficiencyKmPerKWh": 5.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 55,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -878,10 +936,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65,
     "defaultEfficiencyKmPerKWh": 5.5,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 55,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -892,11 +951,12 @@
     "modelYear": 2019,
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 37.9,
-    "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "defaultEfficiencyKmPerKWh": 5.4,
+    "maxDcChargingKw": 50,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -911,7 +971,8 @@
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -922,11 +983,12 @@
     "modelYear": 2022,
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 81.5,
-    "defaultEfficiencyKmPerKWh": null,
+    "defaultEfficiencyKmPerKWh": 4.6,
     "maxDcChargingKw": 205,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -937,11 +999,12 @@
     "modelYear": 2022,
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 81.5,
-    "defaultEfficiencyKmPerKWh": null,
+    "defaultEfficiencyKmPerKWh": 4.1,
     "maxDcChargingKw": 205,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -956,7 +1019,8 @@
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -971,7 +1035,8 @@
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -986,7 +1051,8 @@
     "maxDcChargingKw": 195,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -997,11 +1063,12 @@
     "modelYear": 2024,
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 81.2,
-    "defaultEfficiencyKmPerKWh": 4.8,
+    "defaultEfficiencyKmPerKWh": 4.1,
     "maxDcChargingKw": 205,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1016,7 +1083,8 @@
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1031,7 +1099,8 @@
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1046,7 +1115,8 @@
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 22,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1059,9 +1129,10 @@
     "usableBatteryCapacityKWh": 76.6,
     "defaultEfficiencyKmPerKWh": 4.7,
     "maxDcChargingKw": 135,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1073,10 +1144,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 89,
     "defaultEfficiencyKmPerKWh": 3,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1091,7 +1163,8 @@
     "maxDcChargingKw": 170,
     "maxAcChargingKw": 22,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1103,10 +1176,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 83.7,
     "defaultEfficiencyKmPerKWh": 3.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 270,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1118,10 +1192,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 97,
     "defaultEfficiencyKmPerKWh": 3.4,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 320,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1133,10 +1208,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 32,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
+    "maxDcChargingKw": 40,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1148,10 +1224,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 77,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 175,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1163,10 +1240,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 77,
     "defaultEfficiencyKmPerKWh": 5,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 175,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1178,10 +1256,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 71,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 270,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1192,11 +1271,12 @@
     "modelYear": 2020,
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 83.7,
-    "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "defaultEfficiencyKmPerKWh": 2.8,
+    "maxDcChargingKw": 270,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1209,9 +1289,10 @@
     "usableBatteryCapacityKWh": 97,
     "defaultEfficiencyKmPerKWh": null,
     "maxDcChargingKw": 320,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1224,9 +1305,10 @@
     "usableBatteryCapacityKWh": 95,
     "defaultEfficiencyKmPerKWh": 4,
     "maxDcChargingKw": 270,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1239,9 +1321,10 @@
     "usableBatteryCapacityKWh": 95,
     "defaultEfficiencyKmPerKWh": null,
     "maxDcChargingKw": 270,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1254,9 +1337,10 @@
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 4.8,
     "maxDcChargingKw": 150,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1269,9 +1353,10 @@
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 3.8,
     "maxDcChargingKw": 150,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1286,7 +1371,8 @@
     "maxDcChargingKw": 135,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1301,7 +1387,8 @@
     "maxDcChargingKw": 155,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1316,7 +1403,8 @@
     "maxDcChargingKw": 155,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1331,7 +1419,8 @@
     "maxDcChargingKw": 310,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1341,12 +1430,13 @@
     "trimName": "듀얼 모터",
     "modelYear": 2027,
     "drivetrain": "AWD",
-    "usableBatteryCapacityKWh": null,
+    "usableBatteryCapacityKWh": 102,
     "defaultEfficiencyKmPerKWh": 4.1,
     "maxDcChargingKw": 350,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1356,12 +1446,13 @@
     "trimName": "퍼포먼스",
     "modelYear": 2027,
     "drivetrain": "AWD",
-    "usableBatteryCapacityKWh": null,
+    "usableBatteryCapacityKWh": 102,
     "defaultEfficiencyKmPerKWh": 3.7,
     "maxDcChargingKw": 350,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1376,7 +1467,8 @@
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1391,7 +1483,8 @@
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1406,7 +1499,8 @@
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1419,9 +1513,10 @@
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.4,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 7.4,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1434,9 +1529,10 @@
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 5.4,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1449,9 +1545,10 @@
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.3,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 7.4,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1464,9 +1561,10 @@
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.9,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1479,9 +1577,10 @@
     "usableBatteryCapacityKWh": 28.9,
     "defaultEfficiencyKmPerKWh": null,
     "maxDcChargingKw": 50,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1496,7 +1595,8 @@
     "maxDcChargingKw": 95,
     "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1511,7 +1611,8 @@
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1526,7 +1627,8 @@
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1539,9 +1641,10 @@
     "usableBatteryCapacityKWh": 50.8,
     "defaultEfficiencyKmPerKWh": 5,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1554,9 +1657,10 @@
     "usableBatteryCapacityKWh": 50.8,
     "defaultEfficiencyKmPerKWh": 5,
     "maxDcChargingKw": 100,
-    "maxAcChargingKw": null,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1568,10 +1672,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 68,
     "defaultEfficiencyKmPerKWh": null,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1586,7 +1691,8 @@
     "maxDcChargingKw": 88,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1601,7 +1707,8 @@
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1613,10 +1720,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 60.5,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 88,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1628,10 +1736,11 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 60.5,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 88,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1643,10 +1752,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1658,10 +1768,11 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.7,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   },
   {
@@ -1673,10 +1784,11 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.2,
-    "maxDcChargingKw": null,
-    "maxAcChargingKw": null,
+    "maxDcChargingKw": 150,
+    "maxAcChargingKw": 7,
     "connectorTypes": [
-      "dcCombo"
+      "DC콤보(급속)",
+      "AC단상(완속)"
     ]
   }
 ]
