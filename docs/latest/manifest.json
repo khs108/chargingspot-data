@@ -20,15 +20,15 @@
     },
     "vehicle_specs.json": {
       "path": "vehicle_specs.json",
-      "sha256": "f9ab03d6a3f621ed0e7317356857a06ec38e07ff76a237b238155f7a5a05fde7",
-      "data_version": "20260715T221938+0900",
-      "generated_at": "2026-07-15T22:19:38+09:00"
+      "sha256": "544042b34b4017b95c29243c866ac6c9eeb7ec5d2ab3abdceee704e7c5fba3ed",
+      "data_version": "20260715T233843+0900",
+      "generated_at": "2026-07-15T23:38:43+09:00"
     },
     "vehicle_manifest.json": {
       "path": "vehicle_manifest.json",
-      "sha256": "e16033ab86742d0e4bcaede83cab3de6e6a6bf6cbfc222a275dd3efe9efeae55",
-      "data_version": "20260715T221938+0900",
-      "generated_at": "2026-07-15T22:19:38+09:00"
+      "sha256": "c020c4be859740cbaadd7cb3d55a65b967abd53e7a7687ce2885e0790c877639",
+      "data_version": "20260715T233843+0900",
+      "generated_at": "2026-07-15T23:38:43+09:00"
     },
     "parking_lots.json": {
       "path": "parking_lots.json",
