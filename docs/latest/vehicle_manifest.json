@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "dataVersion": "20260712T171314+0900",
-  "generatedAt": "2026-07-12T17:13:14+09:00",
+  "dataVersion": "20260715T222004+0900",
+  "generatedAt": "2026-07-15T22:20:04+09:00",
   "vehicleCount": 112,
   "vehicleSpecsPath": "vehicle_specs.json",
-  "vehicleSpecsSha256": "bf7f6e749b16a84d2eaf60de4c2af3298b114ff7b0fb06827611ccd76dce9c3a"
+  "vehicleSpecsSha256": "f9ab03d6a3f621ed0e7317356857a06ec38e07ff76a237b238155f7a5a05fde7"
 }

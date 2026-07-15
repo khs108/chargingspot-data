@@ -8,6 +8,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 38.3,
     "defaultEfficiencyKmPerKWh": 6.3,
+    "certifiedRangeKm": 271,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -24,6 +25,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 28,
     "defaultEfficiencyKmPerKWh": 6.3,
+    "certifiedRangeKm": 191,
     "maxDcChargingKw": 70,
     "maxAcChargingKw": 6.6,
     "connectorTypes": [
@@ -40,6 +42,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": 5.6,
+    "certifiedRangeKm": 406,
     "maxDcChargingKw": 77,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -56,6 +59,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39.2,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 77,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -72,6 +76,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 485,
     "maxDcChargingKw": 260,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -88,6 +93,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 70,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 429,
     "maxDcChargingKw": 220,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -104,6 +110,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 458,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -120,6 +127,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 54,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": null,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -136,6 +144,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 54,
     "defaultEfficiencyKmPerKWh": 4.8,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": null,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -152,6 +161,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 70,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 220,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -168,6 +178,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 6,
+    "certifiedRangeKm": 524,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -184,6 +195,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.5,
+    "certifiedRangeKm": 484,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -200,6 +212,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 50,
     "defaultEfficiencyKmPerKWh": 6.2,
+    "certifiedRangeKm": 367,
     "maxDcChargingKw": 180,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -216,6 +229,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 401,
     "maxDcChargingKw": 260,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -232,6 +246,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65.4,
     "defaultEfficiencyKmPerKWh": 5.5,
+    "certifiedRangeKm": 417,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -248,6 +263,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 48.4,
     "defaultEfficiencyKmPerKWh": 5.5,
+    "certifiedRangeKm": 311,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -264,6 +280,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -280,6 +297,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 278,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -296,6 +314,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 350,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -312,6 +331,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 501,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -328,6 +348,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 478,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -344,6 +365,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 410,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -360,6 +382,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.2,
+    "certifiedRangeKm": 350,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -376,6 +399,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 501,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -392,6 +416,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.8,
+    "certifiedRangeKm": 382,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -408,6 +433,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 55,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 354,
     "maxDcChargingKw": 102,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -424,6 +450,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.8,
+    "certifiedRangeKm": 533,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -440,6 +467,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 475,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -456,6 +484,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 78,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 495,
     "maxDcChargingKw": 128,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -472,6 +501,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 60,
     "defaultEfficiencyKmPerKWh": 5.3,
+    "certifiedRangeKm": 382,
     "maxDcChargingKw": 180,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -488,6 +518,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 5.2,
+    "certifiedRangeKm": 494,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -504,6 +535,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.9,
+    "certifiedRangeKm": 461,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -520,6 +552,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 475,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -536,6 +569,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 3.9,
+    "certifiedRangeKm": 342,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -552,6 +586,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 73,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 374,
     "maxDcChargingKw": 210,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -568,6 +603,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 501,
     "maxDcChargingKw": 210,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -584,6 +620,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 3.8,
+    "certifiedRangeKm": 445,
     "maxDcChargingKw": 210,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -600,6 +637,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 96,
     "defaultEfficiencyKmPerKWh": 3.8,
+    "certifiedRangeKm": 443,
     "maxDcChargingKw": 210,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -616,6 +654,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 392,
     "maxDcChargingKw": 77,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -632,6 +671,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": 5.3,
+    "certifiedRangeKm": 385,
     "maxDcChargingKw": 77,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -648,6 +688,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64.8,
     "defaultEfficiencyKmPerKWh": 5.3,
+    "certifiedRangeKm": 401,
     "maxDcChargingKw": 85,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -664,6 +705,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 35.2,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 205,
     "maxDcChargingKw": 50,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -680,6 +722,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 27,
     "defaultEfficiencyKmPerKWh": 5.2,
+    "certifiedRangeKm": 148,
     "maxDcChargingKw": 50,
     "maxAcChargingKw": 6.6,
     "connectorTypes": [
@@ -696,6 +739,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 386,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -712,6 +756,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 39.2,
     "defaultEfficiencyKmPerKWh": 5.6,
+    "certifiedRangeKm": 250,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -728,6 +773,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 481,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -744,6 +790,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.6,
+    "certifiedRangeKm": 437,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -760,6 +807,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4,
+    "certifiedRangeKm": 382,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -776,6 +824,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 80,
     "defaultEfficiencyKmPerKWh": 4.6,
+    "certifiedRangeKm": 423,
     "maxDcChargingKw": 240,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -792,6 +841,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 87.2,
     "defaultEfficiencyKmPerKWh": 4.4,
+    "certifiedRangeKm": 475,
     "maxDcChargingKw": 187,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -808,6 +858,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 452,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -824,6 +875,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 452,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -840,6 +892,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 401,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -856,6 +909,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 73.4,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 401,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -872,6 +926,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 460,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 22,
     "connectorTypes": [
@@ -888,6 +943,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 460,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 22,
     "connectorTypes": [
@@ -904,6 +960,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 87,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 460,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 22,
     "connectorTypes": [
@@ -920,6 +977,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 414,
     "maxDcChargingKw": 55,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -936,6 +994,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 65,
     "defaultEfficiencyKmPerKWh": 5.5,
+    "certifiedRangeKm": 403,
     "maxDcChargingKw": 55,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -952,6 +1011,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 37.9,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 248,
     "maxDcChargingKw": 50,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -968,6 +1028,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 74,
     "defaultEfficiencyKmPerKWh": 4.1,
+    "certifiedRangeKm": 344,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -984,6 +1045,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 81.5,
     "defaultEfficiencyKmPerKWh": 4.6,
+    "certifiedRangeKm": 429,
     "maxDcChargingKw": 205,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1000,6 +1062,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 81.5,
     "defaultEfficiencyKmPerKWh": 4.1,
+    "certifiedRangeKm": 378,
     "maxDcChargingKw": 205,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1016,6 +1079,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 71,
     "defaultEfficiencyKmPerKWh": 3.9,
+    "certifiedRangeKm": 313,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1032,6 +1096,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 105.8,
     "defaultEfficiencyKmPerKWh": 3.6,
+    "certifiedRangeKm": 447,
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1048,6 +1113,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 101.7,
     "defaultEfficiencyKmPerKWh": 3.7,
+    "certifiedRangeKm": 438,
     "maxDcChargingKw": 195,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1064,6 +1130,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 81.2,
     "defaultEfficiencyKmPerKWh": 4.1,
+    "certifiedRangeKm": 453,
     "maxDcChargingKw": 205,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1080,6 +1147,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 64.7,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 310,
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1096,6 +1164,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 64.7,
     "defaultEfficiencyKmPerKWh": 2.9,
+    "certifiedRangeKm": 210,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1112,6 +1181,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 86.5,
     "defaultEfficiencyKmPerKWh": 3,
+    "certifiedRangeKm": 291,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 22,
     "connectorTypes": [
@@ -1128,6 +1198,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 76.6,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 411,
     "maxDcChargingKw": 135,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1144,6 +1215,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 89,
     "defaultEfficiencyKmPerKWh": 3,
+    "certifiedRangeKm": 298,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1160,6 +1232,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 106,
     "defaultEfficiencyKmPerKWh": 3,
+    "certifiedRangeKm": 368,
     "maxDcChargingKw": 170,
     "maxAcChargingKw": 22,
     "connectorTypes": [
@@ -1176,6 +1249,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 83.7,
     "defaultEfficiencyKmPerKWh": 3.7,
+    "certifiedRangeKm": 362,
     "maxDcChargingKw": 270,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1192,6 +1266,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 97,
     "defaultEfficiencyKmPerKWh": 3.4,
+    "certifiedRangeKm": 384,
     "maxDcChargingKw": 320,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1208,6 +1283,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 32,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 40,
     "maxAcChargingKw": 7.2,
     "connectorTypes": [
@@ -1224,6 +1300,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 77,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 405,
     "maxDcChargingKw": 175,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1240,6 +1317,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 77,
     "defaultEfficiencyKmPerKWh": 5,
+    "certifiedRangeKm": 434,
     "maxDcChargingKw": 175,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1256,6 +1334,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 71,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 251,
     "maxDcChargingKw": 270,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1272,6 +1351,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 83.7,
     "defaultEfficiencyKmPerKWh": 2.8,
+    "certifiedRangeKm": 284,
     "maxDcChargingKw": 270,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1288,6 +1368,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 97,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 320,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1304,6 +1385,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 95,
     "defaultEfficiencyKmPerKWh": 4,
+    "certifiedRangeKm": 429,
     "maxDcChargingKw": 270,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1320,6 +1402,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 95,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 270,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1336,6 +1419,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 4.8,
+    "certifiedRangeKm": 417,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1352,6 +1436,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 3.8,
+    "certifiedRangeKm": 334,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1368,6 +1453,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 67,
     "defaultEfficiencyKmPerKWh": 5.2,
+    "certifiedRangeKm": 409,
     "maxDcChargingKw": 135,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1384,6 +1470,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 449,
     "maxDcChargingKw": 155,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1400,6 +1487,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 75,
     "defaultEfficiencyKmPerKWh": 4.3,
+    "certifiedRangeKm": 379,
     "maxDcChargingKw": 155,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1416,6 +1504,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 88,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 310,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1432,6 +1521,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 102,
     "defaultEfficiencyKmPerKWh": 4.1,
+    "certifiedRangeKm": 486,
     "maxDcChargingKw": 350,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1448,6 +1538,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 102,
     "defaultEfficiencyKmPerKWh": 3.7,
+    "certifiedRangeKm": 438,
     "maxDcChargingKw": 350,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1464,6 +1555,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 94,
     "defaultEfficiencyKmPerKWh": 4.6,
+    "certifiedRangeKm": 511,
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1480,6 +1572,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 94,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 455,
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1496,6 +1589,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 94,
     "defaultEfficiencyKmPerKWh": 3.7,
+    "certifiedRangeKm": 395,
     "maxDcChargingKw": 200,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1512,6 +1606,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.4,
+    "certifiedRangeKm": 244,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.4,
     "connectorTypes": [
@@ -1528,6 +1623,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 5.4,
+    "certifiedRangeKm": 280,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1544,6 +1640,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.3,
+    "certifiedRangeKm": 237,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 7.4,
     "connectorTypes": [
@@ -1560,6 +1657,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 46.3,
     "defaultEfficiencyKmPerKWh": 4.9,
+    "certifiedRangeKm": 260,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1576,6 +1674,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 28.9,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": 159,
     "maxDcChargingKw": 50,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1592,6 +1691,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 54.2,
     "defaultEfficiencyKmPerKWh": 5.3,
+    "certifiedRangeKm": 300,
     "maxDcChargingKw": 95,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -1608,6 +1708,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 64.7,
     "defaultEfficiencyKmPerKWh": 4.8,
+    "certifiedRangeKm": 349,
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1624,6 +1725,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 64.7,
     "defaultEfficiencyKmPerKWh": 4.4,
+    "certifiedRangeKm": 326,
     "maxDcChargingKw": 130,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1640,6 +1742,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 50.8,
     "defaultEfficiencyKmPerKWh": 5,
+    "certifiedRangeKm": 295,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1656,6 +1759,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 50.8,
     "defaultEfficiencyKmPerKWh": 5,
+    "certifiedRangeKm": 295,
     "maxDcChargingKw": 100,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1672,6 +1776,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 68,
     "defaultEfficiencyKmPerKWh": null,
+    "certifiedRangeKm": null,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1688,6 +1793,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 49.9,
     "defaultEfficiencyKmPerKWh": 5.5,
+    "certifiedRangeKm": 307,
     "maxDcChargingKw": 88,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1704,6 +1810,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 60.5,
     "defaultEfficiencyKmPerKWh": 5.1,
+    "certifiedRangeKm": 354,
     "maxDcChargingKw": 120,
     "maxAcChargingKw": 11,
     "connectorTypes": [
@@ -1720,6 +1827,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 60.5,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 321,
     "maxDcChargingKw": 88,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -1736,6 +1844,7 @@
     "drivetrain": "FWD",
     "usableBatteryCapacityKWh": 60.5,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 321,
     "maxDcChargingKw": 88,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -1752,6 +1861,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 449,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -1768,6 +1878,7 @@
     "drivetrain": "RWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.7,
+    "certifiedRangeKm": 449,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 7,
     "connectorTypes": [
@@ -1784,6 +1895,7 @@
     "drivetrain": "AWD",
     "usableBatteryCapacityKWh": 82.5,
     "defaultEfficiencyKmPerKWh": 4.2,
+    "certifiedRangeKm": 407,
     "maxDcChargingKw": 150,
     "maxAcChargingKw": 7,
     "connectorTypes": [
