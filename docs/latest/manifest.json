@@ -8,9 +8,9 @@
   "files": {
     "stations.json": {
       "path": "stations.json",
-      "sha256": "f8276b7e4e83f37e121515feddae97d4e487c5fe59ccf9cee1a49a1644f395b5",
-      "data_version": "20260717T195947+0900",
-      "generated_at": "2026-07-17T19:59:47+09:00"
+      "sha256": "e1b10b6e509c2210b4d72ee8d909389e5e9c3fe87fbef1596a31caa316f7131c",
+      "data_version": "20260718T104731+0900",
+      "generated_at": "2026-07-18T10:47:31+09:00"
     },
     "tariffs.json": {
       "path": "tariffs.json",
