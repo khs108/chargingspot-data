@@ -1,10 +1,106 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "20260712T133112+0900",
-  "generatedAt": "2026-07-12T13:31:12+09:00",
+  "dataVersion": "20260718T203208+0900",
+  "generatedAt": "2026-07-18T20:32:08+09:00",
   "currency": "KRW",
   "source": "ev.or.kr",
   "operators": [
+    {
+      "operatorID": "blue_networks",
+      "operatorName": "블루네트웍스",
+      "tariffRules": [
+        {
+          "id": "evorkr_9623857b51a35745",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 347.2,
+          "nonMemberPricePerKWh": 347.2,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_46eb437842284096",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 324.4,
+          "nonMemberPricePerKWh": 324.4,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "chagev",
+      "operatorName": "채비",
+      "tariffRules": [
+        {
+          "id": "evorkr_aa2b9c05cc559758",
+          "speedClass": null,
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 315.0,
+          "nonMemberPricePerKWh": 590.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "중속"
+        },
+        {
+          "id": "evorkr_fb71b0f7ceb419cb",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 410.0,
+          "nonMemberPricePerKWh": 590.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_3b828a3b7109af32",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 430.0,
+          "nonMemberPricePerKWh": 590.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_c3cc67b0f42dcbeb",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 275.0,
+          "nonMemberPricePerKWh": 590.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
     {
       "operatorID": "e1",
       "operatorName": "E1",
@@ -40,30 +136,30 @@
       ]
     },
     {
-      "operatorID": "ev",
-      "operatorName": "한국EV충전서비스센터",
+      "operatorID": "easy_charger",
+      "operatorName": "이지차저",
       "tariffRules": [
         {
-          "id": "evorkr_fd05844a7e4996db",
+          "id": "evorkr_852ef5bbaab990bb",
           "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 400.0,
-          "nonMemberPricePerKWh": 400.0,
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 289.0,
+          "nonMemberPricePerKWh": 450.0,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW미만)"
+          "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
-          "id": "evorkr_362da1b4929f7109",
+          "id": "evorkr_217fff51eb22c07f",
           "speedClass": "slow",
           "powerKwMin": null,
           "powerKwMax": null,
-          "memberPricePerKWh": 400.0,
-          "nonMemberPricePerKWh": 400.0,
+          "memberPricePerKWh": 289.0,
+          "nonMemberPricePerKWh": 450.0,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
@@ -74,11 +170,141 @@
       ]
     },
     {
-      "operatorID": "gs",
+      "operatorID": "ecarplug",
+      "operatorName": "이카플러그",
+      "tariffRules": [
+        {
+          "id": "evorkr_691cf428c9885e42",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 275.0,
+          "nonMemberPricePerKWh": null,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "everon",
+      "operatorName": "에버온",
+      "tariffRules": [
+        {
+          "id": "evorkr_92877717ea95b511",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 296.0,
+          "nonMemberPricePerKWh": 380.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_1ebb47ac7f8e72d2",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 296.0,
+          "nonMemberPricePerKWh": 380.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_c8e0b0f18a879453",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 296.0,
+          "nonMemberPricePerKWh": 380.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-04-15",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "evsis",
+      "operatorName": "이브이시스",
+      "tariffRules": [
+        {
+          "id": "evorkr_b4dbddd0de7f2daf",
+          "speedClass": null,
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 324.0,
+          "nonMemberPricePerKWh": 550.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "중속"
+        },
+        {
+          "id": "evorkr_aa457890b627cc7a",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 360.0,
+          "nonMemberPricePerKWh": 550.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_d577ffedc089b689",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 380.0,
+          "nonMemberPricePerKWh": 550.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_a03c8ee61072f8bb",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 310.0,
+          "nonMemberPricePerKWh": 550.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-11",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "gs_chargev",
       "operatorName": "GS차지비",
       "tariffRules": [
         {
-          "id": "evorkr_b7f24a0896f15947",
+          "id": "evorkr_5fabc37fc1292104",
           "speedClass": "fast",
           "powerKwMin": null,
           "powerKwMax": 100.0,
@@ -92,7 +318,7 @@
           "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
-          "id": "evorkr_6abd368b0d74e004",
+          "id": "evorkr_6563ac93ed8e4906",
           "speedClass": "fast",
           "powerKwMin": 100.0,
           "powerKwMax": null,
@@ -106,12 +332,60 @@
           "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
-          "id": "evorkr_05625622b7846cb8",
+          "id": "evorkr_4e1c6eeb90c76163",
           "speedClass": "slow",
           "powerKwMin": null,
           "powerKwMax": null,
           "memberPricePerKWh": 319.0,
           "nonMemberPricePerKWh": 470.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "kepco",
+      "operatorName": "한국전력공사",
+      "tariffRules": [
+        {
+          "id": "evorkr_a3e3c8612921926e",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 324.4,
+          "nonMemberPricePerKWh": 324.4,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_068616a4722821e5",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 347.2,
+          "nonMemberPricePerKWh": 347.2,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_a144c5669b1a1e4c",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 324.4,
+          "nonMemberPricePerKWh": 324.4,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
@@ -156,11 +430,45 @@
       ]
     },
     {
-      "operatorID": "lg",
+      "operatorID": "korea_ev_charging_service_center",
+      "operatorName": "한국EV충전서비스센터",
+      "tariffRules": [
+        {
+          "id": "evorkr_8563384700a3810d",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 400.0,
+          "nonMemberPricePerKWh": 400.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_f68360a7b5e218b8",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 400.0,
+          "nonMemberPricePerKWh": 400.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "lg_voltup",
       "operatorName": "LG유플러스 볼트업",
       "tariffRules": [
         {
-          "id": "evorkr_68f1e57336ebf42e",
+          "id": "evorkr_461a9ad523b2a280",
           "speedClass": "fast",
           "powerKwMin": null,
           "powerKwMax": 100.0,
@@ -174,7 +482,7 @@
           "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
-          "id": "evorkr_e7a05cb9e8900342",
+          "id": "evorkr_6d503bc249c44c3d",
           "speedClass": "fast",
           "powerKwMin": 100.0,
           "powerKwMax": null,
@@ -188,7 +496,7 @@
           "sourceCapacityGroup": "급속(100kW이상)"
         },
         {
-          "id": "evorkr_35effa4f0d8d9edd",
+          "id": "evorkr_6dde2a33e9d0b080",
           "speedClass": "slow",
           "powerKwMin": null,
           "powerKwMax": null,
@@ -200,6 +508,40 @@
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-07-01",
           "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "me",
+      "operatorName": "기후에너지환경부",
+      "tariffRules": [
+        {
+          "id": "evorkr_a2d4277e650c5eef",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 324.4,
+          "nonMemberPricePerKWh": 324.4,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_3ad0af36a5d682b5",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 347.2,
+          "nonMemberPricePerKWh": 347.2,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -276,40 +618,6 @@
           "powerKwMax": null,
           "memberPricePerKWh": 260.0,
           "nonMemberPricePerKWh": 400.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_07f8029fb42f",
-      "operatorName": "이지차저",
-      "tariffRules": [
-        {
-          "id": "evorkr_9d738c20844a2674",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 289.0,
-          "nonMemberPricePerKWh": 450.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_616d4e971f056ac3",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 289.0,
-          "nonMemberPricePerKWh": 450.0,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
@@ -490,26 +798,6 @@
       ]
     },
     {
-      "operatorID": "op_1162c1f779b9",
-      "operatorName": "이카플러그",
-      "tariffRules": [
-        {
-          "id": "evorkr_17020ae24ec1f70e",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 275.0,
-          "nonMemberPricePerKWh": null,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
       "operatorID": "op_11c905c77cb7",
       "operatorName": "그리드위즈",
       "tariffRules": [
@@ -642,40 +930,6 @@
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-03-13",
           "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_28ead145b4a4",
-      "operatorName": "기후에너지환경부",
-      "tariffRules": [
-        {
-          "id": "evorkr_30b42c30b4b91324",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 324.4,
-          "nonMemberPricePerKWh": 324.4,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_8fbb058c1723a1f9",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 347.2,
-          "nonMemberPricePerKWh": 347.2,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
         }
       ]
     },
@@ -1142,54 +1396,6 @@
       ]
     },
     {
-      "operatorID": "op_531e6d008e93",
-      "operatorName": "한국전력공사",
-      "tariffRules": [
-        {
-          "id": "evorkr_8d4d950b7d9f1a50",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 324.4,
-          "nonMemberPricePerKWh": 324.4,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_6b64645ac2fc8022",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 347.2,
-          "nonMemberPricePerKWh": 347.2,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_bb65d67b78e9f9b6",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 324.4,
-          "nonMemberPricePerKWh": 324.4,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
       "operatorID": "op_584c9d90395a",
       "operatorName": "동양이엔피",
       "tariffRules": [
@@ -1422,26 +1628,6 @@
       ]
     },
     {
-      "operatorID": "op_623347fd00e6",
-      "operatorName": "파워큐브",
-      "tariffRules": [
-        {
-          "id": "evorkr_f67a2d5310f2e317",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 319.0,
-          "nonMemberPricePerKWh": null,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
       "operatorID": "op_63fcb9299fab",
       "operatorName": "이웨이브",
       "tariffRules": [
@@ -1466,40 +1652,6 @@
           "powerKwMax": null,
           "memberPricePerKWh": 250.0,
           "nonMemberPricePerKWh": 430.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_64882ddfaa62",
-      "operatorName": "블루네트웍스",
-      "tariffRules": [
-        {
-          "id": "evorkr_a05f808aa81524d5",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 347.2,
-          "nonMemberPricePerKWh": 347.2,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_89e941c2866b805d",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 324.4,
-          "nonMemberPricePerKWh": 324.4,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
@@ -1614,68 +1766,6 @@
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-04-08",
           "sourceCapacityGroup": "완속①"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_81b62220ea9d",
-      "operatorName": "채비",
-      "tariffRules": [
-        {
-          "id": "evorkr_25ad9cf9d453d28f",
-          "speedClass": null,
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 315.0,
-          "nonMemberPricePerKWh": 590.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "중속"
-        },
-        {
-          "id": "evorkr_5d2f3ec735b97949",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 410.0,
-          "nonMemberPricePerKWh": 590.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_b7afcae53fb3d4db",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 430.0,
-          "nonMemberPricePerKWh": 590.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_a92df366cb697cb5",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 275.0,
-          "nonMemberPricePerKWh": 590.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
         }
       ]
     },
@@ -1927,54 +2017,6 @@
           "effectiveTo": null,
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_90a9e2acc3bd",
-      "operatorName": "에버온",
-      "tariffRules": [
-        {
-          "id": "evorkr_cdd5051349e55259",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 296.0,
-          "nonMemberPricePerKWh": 380.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-04-15",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_9e9e49f395568ce2",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 296.0,
-          "nonMemberPricePerKWh": 380.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-04-15",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_cadc0585cbcb2a25",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 296.0,
-          "nonMemberPricePerKWh": 380.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-04-15",
           "sourceCapacityGroup": "완속"
         }
       ]
@@ -2397,116 +2439,6 @@
           "effectiveTo": null,
           "sourceName": "ev.or.kr",
           "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_aeebd7352a19",
-      "operatorName": "서울씨엔지",
-      "tariffRules": [
-        {
-          "id": "evorkr_c8fff5a835860a10",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 350.0,
-          "nonMemberPricePerKWh": 450.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_bb846c2dcac1845f",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 350.0,
-          "nonMemberPricePerKWh": 450.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_0cf5ecdbbc3b89aa",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 315.0,
-          "nonMemberPricePerKWh": 450.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-03-13",
-          "sourceCapacityGroup": "완속"
-        }
-      ]
-    },
-    {
-      "operatorID": "op_b18ad3895a6c",
-      "operatorName": "이브이시스",
-      "tariffRules": [
-        {
-          "id": "evorkr_bc22b9c8e964466c",
-          "speedClass": null,
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 324.0,
-          "nonMemberPricePerKWh": 550.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-05-11",
-          "sourceCapacityGroup": "중속"
-        },
-        {
-          "id": "evorkr_e83f79d4788f2d79",
-          "speedClass": "fast",
-          "powerKwMin": null,
-          "powerKwMax": 100.0,
-          "memberPricePerKWh": 360.0,
-          "nonMemberPricePerKWh": 550.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-05-11",
-          "sourceCapacityGroup": "급속(100kW미만)"
-        },
-        {
-          "id": "evorkr_3be93126b3b3f511",
-          "speedClass": "fast",
-          "powerKwMin": 100.0,
-          "powerKwMax": null,
-          "memberPricePerKWh": 380.0,
-          "nonMemberPricePerKWh": 550.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-05-11",
-          "sourceCapacityGroup": "급속(100kW이상)"
-        },
-        {
-          "id": "evorkr_19f11d9d1308608d",
-          "speedClass": "slow",
-          "powerKwMin": null,
-          "powerKwMax": null,
-          "memberPricePerKWh": 310.0,
-          "nonMemberPricePerKWh": 550.0,
-          "roamingPricePerKWh": null,
-          "effectiveFrom": null,
-          "effectiveTo": null,
-          "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-05-11",
           "sourceCapacityGroup": "완속"
         }
       ]
@@ -3384,6 +3316,74 @@
       ]
     },
     {
+      "operatorID": "powercube",
+      "operatorName": "파워큐브",
+      "tariffRules": [
+        {
+          "id": "evorkr_7bbe8575176800af",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 319.0,
+          "nonMemberPricePerKWh": null,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "seoul_cng",
+      "operatorName": "서울씨엔지",
+      "tariffRules": [
+        {
+          "id": "evorkr_13324cbc3cccd808",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 350.0,
+          "nonMemberPricePerKWh": 450.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_234dd0385e34a3f2",
+          "speedClass": "fast",
+          "powerKwMin": 100.0,
+          "powerKwMax": null,
+          "memberPricePerKWh": 350.0,
+          "nonMemberPricePerKWh": 450.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "급속(100kW이상)"
+        },
+        {
+          "id": "evorkr_0ae20969649c72c0",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 315.0,
+          "nonMemberPricePerKWh": 450.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
       "operatorID": "sg",
       "operatorName": "SG생활안전",
       "tariffRules": [
@@ -3433,20 +3433,20 @@
     },
     {
       "operatorID": "sk",
-      "operatorName": "SK일렉링크",
+      "operatorName": "SK에너지",
       "tariffRules": [
         {
           "id": "evorkr_a2fe78330301f200",
           "speedClass": "fast",
           "powerKwMin": null,
           "powerKwMax": 100.0,
-          "memberPricePerKWh": 391.0,
-          "nonMemberPricePerKWh": 590.0,
+          "memberPricePerKWh": 347.2,
+          "nonMemberPricePerKWh": 450.0,
           "roamingPricePerKWh": null,
           "effectiveFrom": null,
           "effectiveTo": null,
           "sourceName": "ev.or.kr",
-          "sourceUpdatedAt": "2026-05-21",
+          "sourceUpdatedAt": "2026-03-13",
           "sourceCapacityGroup": "급속(100kW미만)"
         },
         {
@@ -3465,6 +3465,40 @@
         },
         {
           "id": "evorkr_7fa78daa55aedd9a",
+          "speedClass": "slow",
+          "powerKwMin": null,
+          "powerKwMax": null,
+          "memberPricePerKWh": 286.0,
+          "nonMemberPricePerKWh": 286.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-03-13",
+          "sourceCapacityGroup": "완속"
+        }
+      ]
+    },
+    {
+      "operatorID": "sk_electlink",
+      "operatorName": "SK일렉링크",
+      "tariffRules": [
+        {
+          "id": "evorkr_739a357b72293c73",
+          "speedClass": "fast",
+          "powerKwMin": null,
+          "powerKwMax": 100.0,
+          "memberPricePerKWh": 391.0,
+          "nonMemberPricePerKWh": 590.0,
+          "roamingPricePerKWh": null,
+          "effectiveFrom": null,
+          "effectiveTo": null,
+          "sourceName": "ev.or.kr",
+          "sourceUpdatedAt": "2026-05-21",
+          "sourceCapacityGroup": "급속(100kW미만)"
+        },
+        {
+          "id": "evorkr_763a036ba1e073ec",
           "speedClass": "slow",
           "powerKwMin": null,
           "powerKwMax": null,
